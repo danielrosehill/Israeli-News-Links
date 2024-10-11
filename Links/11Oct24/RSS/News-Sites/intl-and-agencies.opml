@@ -10,5 +10,7 @@
     <outline text="SCMP MIddle East" type="rss" xmlUrl="https://www.scmp.com/rss/322264/feed" />
     <outline text="VOA Middle East" type="rss" xmlUrl="https://www.voanews.com/api/zrbopeuvim" />
     <outline text="Times of India" type="rss" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/1898272.cms" />
+    <outline text="The Economist" type="rss" xmlUrl="https://www.economist.com/middle-east-and-africa/rss.xml" />
+    <outline text="Daily Sabah" type="rss" xmlUrl="https://www.dailysabah.com/rssFeed/12/13" />
   </body>
 </opml>

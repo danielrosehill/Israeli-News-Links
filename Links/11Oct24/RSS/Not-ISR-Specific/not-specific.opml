@@ -5,5 +5,12 @@
   </head>
   <body>
     <outline text="RT News" type="rss" xmlUrl="https://www.rt.com/rss/news/" description="RSS feed for RT News updates."/>
+    <outline text="WSJ World" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" description="World Street Journal World News" />
+    <outline text="Sky News World News" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/world.xml" />
+    <outline text="Foreign Affairs" type="rss" xmlUrl="https://www.foreignaffairs.com/rss.xml" />
+    <outline text="Washington Post" type="rss" xmlUrl="https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_35" />
+    <outline text="CBS" type="rss" xmlUrl="https://www.cbsnews.com/latest/rss/world" />
+    <outline text="RT" type="rss" xmlUrl="https://www.rt.com/rss/news/" />
+    <outline text="Channel News Asia" type="rss" xmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311" />
   </body>
 </opml>

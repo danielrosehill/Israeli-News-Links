@@ -10,5 +10,6 @@
     <outline text="CENTCOM" type="rss" xmlUrl="https://www.centcom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=808&isdashboardselected=0&max=20" description="RSS feed for US Central Command updates."/>
     <outline text="US Cyber Command" type="rss" xmlUrl="https://www.cybercom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=848&isdashboardselected=0&max=20" description="RSS feed for US Cyber Command updates."/>
     <outline text="NATO" type="rss" xmlUrl="https://www.nato.int/cps/rss/en/natohq/rssFeed.xsl/rssFeed.xml" description="RSS feed for NATO updates."/>
+  <outline text="UK RAF" type="rss" xmlUrl="https://www.raf.mod.uk/news/articles/?rss=true" />
   </body>
 </opml>
