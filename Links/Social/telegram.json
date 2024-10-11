@@ -1,0 +1,20 @@
+{
+    "telegram_channels": [
+      {
+        "title": "0404",
+        "url": "https://t.me/news0404il",
+        "description": "Telegram channel for 0404, providing real-time news updates."
+      },
+      {
+        "title": "IDF - English",
+        "url": "https://t.me/idfofficial",
+        "description": "The official English-language Telegram channel for the IDF (Israel Defense Forces)."
+      },
+      {
+        "title": "South First Responders",
+        "url": "https://t.me/southfirstresponders",
+        "description": "A Telegram channel providing updates and alerts from first responders in Southern Israel."
+      }
+    ]
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "International And Agencies": [
+      {
+        "title": "New York Times - Middle East",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+        "description": "The New York Times' RSS feed for Middle East news."
+      },
+      {
+        "title": "BBC - Middle East",
+        "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "description": "BBC's RSS feed for Middle East news."
+      },
+      {
+        "title": "Al Jazeera - All News",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "description": "Al Jazeera's comprehensive RSS feed for all news."
+      },
+      {
+        "title": "France 24 - Middle East",
+        "url": "https://www.france24.com/en/middle-east/rss",
+        "description": "France 24's RSS feed for Middle East news."
+      }
+    ]
+  }
+  

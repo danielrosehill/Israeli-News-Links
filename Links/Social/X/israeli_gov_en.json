@@ -1,0 +1,30 @@
+{
+    "government_of_israel_english": [
+      {
+        "title": "Prime Minister of Israel",
+        "url": "https://x.com/IsraeliPM",
+        "description": "Official Twitter account of the Prime Minister of Israel, providing updates in English."
+      },
+      {
+        "title": "Ministry of Foreign Affairs",
+        "url": "https://x.com/IsraelMFA",
+        "description": "Official Twitter account of the Israeli Ministry of Foreign Affairs, sharing diplomatic and international relations updates in English."
+      },
+      {
+        "title": "IDF - Israel Defense Forces",
+        "url": "https://x.com/IDF",
+        "description": "The official Twitter account of the Israel Defense Forces, offering news and military updates in English."
+      },
+      {
+        "title": "Government Press Office",
+        "url": "https://x.com/Israel_GPO",
+        "description": "The official account of the Israeli Government Press Office, providing press releases and government news."
+      },
+      {
+        "title": "President of Israel",
+        "url": "https://x.com/Isaac_Herzog",
+        "description": "The official Twitter account of Israel's President, Isaac Herzog, offering updates in English."
+      }
+    ]
+  }
+  

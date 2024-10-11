@@ -1,0 +1,19 @@
+{
+  "Israeli News Briefs and Breaking News": [
+    {
+      "title": "Jerusalem Post - Breaking News",
+      "url": "https://rss.jpost.com/rss/rssfeedsheadlines.aspx",
+      "description": "Jerusalem Post's breaking news feed."
+    },
+    {
+      "title": "Arutz 7 - News Briefs",
+      "url": "https://www.israelnationalnews.com/Rss.aspx",
+      "description": "Arutz 7's feed for news briefs from Israel and abroad."
+    },
+    {
+      "title": "Haaretz - Breaking Headlines",
+      "url": "https://www.haaretz.com/srv/haaretz-latest-headlines",
+      "description": "Haaretz's breaking headlines feed."
+    }
+  ]
+}

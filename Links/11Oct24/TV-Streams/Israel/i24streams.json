@@ -1,0 +1,25 @@
+{
+    "i24News Live Streams": [
+      {
+        "language": "English",
+        "url": "https://video.i24news.tv/live/brightcove/en",
+        "description": "Live stream of i24News in English, covering Israeli and international news."
+      },
+      {
+        "language": "Hebrew",
+        "url": "https://video.i24news.tv/live/brightcove/he",
+        "description": "Live stream of i24News in Hebrew, providing Israeli and Middle Eastern news."
+      },
+      {
+        "language": "French",
+        "url": "https://video.i24news.tv/live/brightcove/fr",
+        "description": "Live stream of i24News in French, focusing on international and Middle Eastern news."
+      },
+      {
+        "language": "Arabic",
+        "url": "https://video.i24news.tv/live/brightcove/ar",
+        "description": "Live stream of i24News in Arabic, offering news coverage of the Middle East and world events."
+      }
+    ]
+  }
+  

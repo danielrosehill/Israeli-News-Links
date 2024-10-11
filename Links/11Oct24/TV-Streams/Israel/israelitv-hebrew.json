@@ -1,0 +1,25 @@
+{
+    "Israeli News Hebrew": [
+      {
+        "title": "Kan 11 Live",
+        "url": "https://www.kan.org.il/live/",
+        "description": "Live broadcast from Kan 11, the Israeli Public Broadcasting Corporation."
+      },
+      {
+        "title": "Keshet 12 Live",
+        "url": "https://www.mako.co.il/mako-vod-live-tv/VOD-6540b8dcb64fd31006.htm",
+        "description": "Live stream from Keshet 12, one of Israel's most popular commercial TV channels."
+      },
+      {
+        "title": "Reshet 13 Live",
+        "url": "https://13tv.co.il/live/",
+        "description": "Live stream from Reshet 13, providing entertainment, news, and drama series."
+      },
+      {
+        "title": "Channel 14 Live",
+        "url": "https://www.now14.co.il/live",
+        "description": "Live stream from Channel 14, focusing on news, opinion, and current events."
+      }
+    ]
+  }
+  

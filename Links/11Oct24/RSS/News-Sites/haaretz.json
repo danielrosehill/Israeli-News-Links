@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Haaretz - Latest Headlines",
+      "url": "https://www.haaretz.com/srv/haaretz-latest-headlines"
+    },
+    {
+      "name": "Haaretz - Israel News",
+      "url": "https://www.haaretz.com/srv/israel-news-rss"
+    },
+    {
+      "name": "Haaretz - Technology News",
+      "url": "https://www.haaretz.com/srv/technology-news-rss"
+    },
+    {
+      "name": "Haaretz - Middle East News",
+      "url": "https://www.haaretz.com/srv/middle-east-news-rss"
+    },
+    {
+      "name": "Haaretz - World News",
+      "url": "https://www.haaretz.com/srv/world-news-rss"
+    }
+  ]
+  

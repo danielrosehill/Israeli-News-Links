@@ -1,0 +1,59 @@
+{
+  "Israeli News English": [
+    {
+      "title": "Jerusalem Post - Cinema and Television",
+      "url": "https://rss.jpost.com/rss/rsscinemaandtelevision",
+      "description": "Jerusalem Post's RSS feed for cinema and television news."
+    },
+    {
+      "title": "Jerusalem Post - Breaking News",
+      "url": "https://rss.jpost.com/rss/rssfeedsheadlines.aspx",
+      "description": "Jerusalem Post's breaking news feed."
+    },
+    {
+      "title": "Jerusalem Post - Business and Innovation",
+      "url": "https://rss.jpost.com/rss/rssbusinessandinnovation",
+      "description": "Jerusalem Post's RSS feed for business and innovation news."
+    },
+    {
+      "title": "Times of Israel - All News",
+      "url": "https://www.timesofisrael.com/feed/",
+      "description": "Times of Israel's comprehensive RSS feed for all news."
+    },
+    {
+      "title": "Arutz 7 - Main News",
+      "url": "https://www.israelnationalnews.com/Rss.aspx?act=.1",
+      "description": "Arutz 7's main RSS feed, covering Israeli and global news."
+    },
+    {
+      "title": "Arutz 7 - News Briefs",
+      "url": "https://www.israelnationalnews.com/Rss.aspx",
+      "description": "Arutz 7's feed for news briefs from Israel and abroad."
+    },
+    {
+      "title": "Haaretz - Latest Headlines",
+      "url": "https://www.haaretz.com/srv/haaretz-latest-headlines",
+      "description": "Haaretz's feed for the latest headlines."
+    },
+    {
+      "title": "Haaretz - Israel News",
+      "url": "https://www.haaretz.com/srv/israel-news-rss",
+      "description": "Haaretz's feed for Israel news."
+    },
+    {
+      "title": "Haaretz - Technology News",
+      "url": "https://www.haaretz.com/srv/technology-news-rss",
+      "description": "Haaretz's feed for technology news."
+    },
+    {
+      "title": "Haaretz - Middle East News",
+      "url": "https://www.haaretz.com/srv/middle-east-news-rss",
+      "description": "Haaretz's feed for Middle East news."
+    },
+    {
+      "title": "Haaretz - World News",
+      "url": "https://www.haaretz.com/srv/world-news-rss",
+      "description": "Haaretz's feed for world news."
+    }
+  ]
+}

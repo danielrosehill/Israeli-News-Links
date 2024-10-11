@@ -1,0 +1,20 @@
+{
+    "multilaterals_and_gov": [
+      {
+        "title": "US Secretary of State - Near East",
+        "url": "https://www.state.gov/rss-feed/near-east/feed/",
+        "description": "Official RSS feed for news and updates from the US Secretary of State focused on the Near East."
+      },
+      {
+        "title": "UN Middle East",
+        "url": "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml",
+        "description": "United Nations RSS feed for Middle East news and developments."
+      },
+      {
+        "title": "European Council on Foreign Relations",
+        "url": "https://ecfr.eu/feed/",
+        "description": "RSS feed for updates and analyses from the European Council on Foreign Relations."
+      }
+    ]
+  }
+  
