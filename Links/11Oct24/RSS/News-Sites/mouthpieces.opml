@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Mouthpieces</title>
+  </head>
+  <body>
+    <outline text="Mehr News" type="rss" xmlUrl="https://en.mehrnews.com/rss/tp/579" description="RSS feed for Mehr News updates."/>
+  </body>
+</opml>

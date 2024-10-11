@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Business and Technology News Feeds</title>
+  </head>
+  <body>
+    <outline text="Jerusalem Post - Business and Innovation" type="rss" xmlUrl="https://rss.jpost.com/rss/rssbusinessandinnovation" description="Jerusalem Post's RSS feed for business and innovation news."/>
+    <outline text="Globes - Business" type="rss" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725" description="RSS feed for Globes business news."/>
+    <outline text="Calcalist Tech" type="rss" xmlUrl="https://www.calcalistech.com/GeneralRSSCtech/0,16665,L-5211,00.xml" description="RSS feed for Calcalist Tech news."/>
+  </body>
+</opml>

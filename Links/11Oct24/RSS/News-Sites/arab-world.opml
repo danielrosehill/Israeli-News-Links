@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Arab News and Related Feeds</title>
+  </head>
+  <body>
+    <outline text="Arab News" type="rss" xmlUrl="https://www.arabnews.com/cat/2/rss.xml" description="RSS feed for Arab News."/>
+    <outline text="Electronic Intifada" type="rss" xmlUrl="https://electronicintifada.net/rss.xml" description="RSS feed for Electronic Intifada."/>
+    <outline text="Al Arabiya" type="rss" xmlUrl="https://english.alarabiya.net/feed/rss2/en.xml" description="RSS feed for Al Arabiya news."/>
+    <outline text="Al Jazeera" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" description="RSS feed for Al Jazeera news."/>
+  </body>
+</opml>

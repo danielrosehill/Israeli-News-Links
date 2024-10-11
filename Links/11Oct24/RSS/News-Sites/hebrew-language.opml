@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Hebrew News RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="Israel HaYom RSS" type="rss" xmlUrl="https://www.israelhayom.co.il/rss.xml" description="RSS feed for Israel HaYom, providing the latest news in Hebrew."/>
+    <outline text="Ynet RSS" type="rss" xmlUrl="https://www.ynet.co.il/Integration/StoryRss2.xml" description="Ynet's RSS feed for Hebrew-language news."/>
+    <outline text="Haaretz" type="rss" xmlUrl="https://www.haaretz.co.il/srv/rss---feedly" description="Haaretz Hebrew"/>
+    <outline text="0404" type="rss" xmlUrl="https://www.0404.co.il/?call_custom_simple_rss=1&csrp_cat=1" description="0404's RSS feed for news updates in Hebrew."/>
+  </body>
+</opml>

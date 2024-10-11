@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Haaretz RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="Haaretz - Latest Headlines" type="rss" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines"/>
+    <outline text="Haaretz - Israel News" type="rss" xmlUrl="https://www.haaretz.com/srv/israel-news-rss"/>
+    <outline text="Haaretz - Technology News" type="rss" xmlUrl="https://www.haaretz.com/srv/technology-news-rss"/>
+    <outline text="Haaretz - Middle East News" type="rss" xmlUrl="https://www.haaretz.com/srv/middle-east-news-rss"/>
+    <outline text="Haaretz - World News" type="rss" xmlUrl="https://www.haaretz.com/srv/world-news-rss"/>
+  </body>
+</opml>

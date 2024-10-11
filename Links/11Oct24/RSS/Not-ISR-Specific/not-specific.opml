@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>General World News</title>
+  </head>
+  <body>
+    <outline text="RT News" type="rss" xmlUrl="https://www.rt.com/rss/news/" description="RSS feed for RT News updates."/>
+  </body>
+</opml>

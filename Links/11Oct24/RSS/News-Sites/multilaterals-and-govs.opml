@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Multilaterals and Government RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="US Secretary of State - Near East" type="rss" xmlUrl="https://www.state.gov/rss-feed/near-east/feed/" description="Official RSS feed for news and updates from the US Secretary of State focused on the Near East."/>
+    <outline text="UN Middle East" type="rss" xmlUrl="https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml" description="United Nations RSS feed for Middle East news and developments."/>
+    <outline text="European Council on Foreign Relations" type="rss" xmlUrl="https://ecfr.eu/feed/" description="RSS feed for updates and analyses from the European Council on Foreign Relations."/>
+  </body>
+</opml>

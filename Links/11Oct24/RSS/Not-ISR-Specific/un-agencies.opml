@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>UN Agencies RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="UNSCO" type="rss" xmlUrl="https://unsco.unmissions.org/rss.xml" description="RSS feed for UNSCO (United Nations Special Coordinator for the Middle East Peace Process)."/>
+    <outline text="UN Middle East" type="rss" xmlUrl="https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml" description="RSS feed for UN news and developments in the Middle East."/>
+    <outline text="UNSC Press Releases" type="rss" xmlUrl="https://press.un.org/en/rss.xml" description="RSS feed for United Nations Security Council press releases."/>
+  </body>
+</opml>

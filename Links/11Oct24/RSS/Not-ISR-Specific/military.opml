@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Military RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="US Department of Defence" type="rss" xmlUrl="https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=10" description="RSS feed for updates from the US Department of Defense."/>
+    <outline text="US Air Force" type="rss" xmlUrl="https://www.af.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1&isdashboardselected=0&max=20" description="RSS feed for updates from the US Air Force."/>
+    <outline text="US Navy - Press" type="rss" xmlUrl="https://www.navy.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=2&Site=1067&max=10" description="RSS feed for US Navy press releases."/>
+    <outline text="CENTCOM" type="rss" xmlUrl="https://www.centcom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=808&isdashboardselected=0&max=20" description="RSS feed for US Central Command updates."/>
+    <outline text="US Cyber Command" type="rss" xmlUrl="https://www.cybercom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=848&isdashboardselected=0&max=20" description="RSS feed for US Cyber Command updates."/>
+    <outline text="NATO" type="rss" xmlUrl="https://www.nato.int/cps/rss/en/natohq/rssFeed.xsl/rssFeed.xml" description="RSS feed for NATO updates."/>
+  </body>
+</opml>

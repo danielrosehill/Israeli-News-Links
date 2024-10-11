@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Jewish World - Agencies RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="JTA" type="rss" xmlUrl="https://www.jta.org/feed" />
+    <outline text="JNS" type="rss" xmlUrl="https://www.jns.org/feed/" />
+    <outline text="Media Line" type="rss" xmlUrl="https://themedialine.org/feed/" />
+  </body>
+</opml>

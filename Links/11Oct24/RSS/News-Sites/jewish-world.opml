@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Jewish News RSS Feed</title>
+  </head>
+  <body>
+    <outline text="Jewish News" type="rss" xmlUrl="https://www.jewishnews.co.uk/feed/" description="RSS feed for Jewish News UK."/>
+  </body>
+</opml>

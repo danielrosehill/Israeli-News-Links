@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>International And Agencies RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="New York Times - Middle East" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml" description="The New York Times' RSS feed for Middle East news."/>
+    <outline text="BBC - Middle East" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" description="BBC's RSS feed for Middle East news."/>
+    <outline text="France 24 - Middle East" type="rss" xmlUrl="https://www.france24.com/en/middle-east/rss" description="France 24's RSS feed for Middle East news."/>
+    <outline text="SCMP MIddle East" type="rss" xmlUrl="https://www.scmp.com/rss/322264/feed" />
+    <outline text="VOA Middle East" type="rss" xmlUrl="https://www.voanews.com/api/zrbopeuvim" />
+    <outline text="Times of India" type="rss" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/1898272.cms" />
+  </body>
+</opml>

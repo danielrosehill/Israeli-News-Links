@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Time Widget: Israel and UTC</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f4f4f9;
+    }
+    .time-container {
+      display: flex;
+      justify-content: space-between;
+      width: 60%;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    .time-box {
+      text-align: center;
+      flex: 1;
+    }
+    h2 {
+      margin-bottom: 10px;
+      font-size: 24px;
+      color: #333;
+    }
+    .time {
+      font-size: 32px;
+      color: #2a9d8f;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="time-container">
+    <div class="time-box">
+      <h2>Local</h2>
+      <div class="time" id="localTime"></div>
+    </div>
+    <div class="time-box">
+      <h2>UTC</h2>
+      <div class="time" id="utcTime"></div>
+    </div>
+  </div>
+
+  <script>
+    function updateTime() {
+      const options = { hour: '2-digit', minute: '2-digit', hour12: false };
+
+      // Israel local time (Jerusalem Time Zone)
+      const localTime = new Date().toLocaleTimeString('en-US', { ...options, timeZone: 'Asia/Jerusalem' });
+      
+      // UTC time
+      const utcTime = new Date().toLocaleTimeString('en-US', { ...options, timeZone: 'UTC' });
+
+      // Update the displayed times
+      document.getElementById('localTime').textContent = localTime;
+      document.getElementById('utcTime').textContent = utcTime;
+    }
+
+    setInterval(updateTime, 1000); // Update time every second
+    updateTime(); // Initial call to display time immediately
+  </script>
+
+</body>
+</html>

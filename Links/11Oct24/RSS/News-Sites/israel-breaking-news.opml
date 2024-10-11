@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli News Briefs and Breaking News</title>
+  </head>
+  <body>
+    <outline text="Jerusalem Post - Breaking News" type="rss" xmlUrl="https://rss.jpost.com/rss/rssfeedsheadlines.aspx" description="Jerusalem Post's breaking news feed."/>
+    <outline text="Arutz 7 - News Briefs" type="rss" xmlUrl="https://www.israelnationalnews.com/Rss.aspx" description="Arutz 7's feed for news briefs from Israel and abroad."/>
+    <outline text="Haaretz - Breaking Headlines" type="rss" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines" description="Haaretz's breaking headlines feed."/>
+  </body>
+</opml>

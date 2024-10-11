@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli News English RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="Jerusalem Post - Cinema and Television" type="rss" xmlUrl="https://rss.jpost.com/rss/rsscinemaandtelevision" description="Jerusalem Post's RSS feed for cinema and television news."/>
+    <outline text="Jerusalem Post - Breaking News" type="rss" xmlUrl="https://rss.jpost.com/rss/rssfeedsheadlines.aspx" description="Jerusalem Post's breaking news feed."/>
+    <outline text="Jerusalem Post - Business and Innovation" type="rss" xmlUrl="https://rss.jpost.com/rss/rssbusinessandinnovation" description="Jerusalem Post's RSS feed for business and innovation news."/>
+    <outline text="Times of Israel - All News" type="rss" xmlUrl="https://www.timesofisrael.com/feed/" description="Times of Israel's comprehensive RSS feed for all news."/>
+    <outline text="Arutz 7 - Main News" type="rss" xmlUrl="https://www.israelnationalnews.com/Rss.aspx?act=.1" description="Arutz 7's main RSS feed, covering Israeli and global news."/>
+    <outline text="Arutz 7 - News Briefs" type="rss" xmlUrl="https://www.israelnationalnews.com/Rss.aspx" description="Arutz 7's feed for news briefs from Israel and abroad."/>
+    <outline text="Haaretz - Latest Headlines" type="rss" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines" description="Haaretz's feed for the latest headlines."/>
+    <outline text="Haaretz - Israel News" type="rss" xmlUrl="https://www.haaretz.com/srv/israel-news-rss" description="Haaretz's feed for Israel news."/>
+    <outline text="Haaretz - Technology News" type="rss" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" description="Haaretz's feed for technology news."/>
+    <outline text="Haaretz - Middle East News" type="rss" xmlUrl="https://www.haaretz.com/srv/middle-east-news-rss" description="Haaretz's feed for Middle East news."/>
+    <outline text="Haaretz - World News" type="rss" xmlUrl="https://www.haaretz.com/srv/world-news-rss" description="Haaretz's feed for world news."/>
+  </body>
+</opml>
