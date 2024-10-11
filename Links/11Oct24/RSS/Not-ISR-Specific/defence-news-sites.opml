@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Defense News Sites</title>
+  </head>
+  <body>
+    <outline text="Breaking Defense" type="rss" xmlUrl="https://breakingdefense.com/full-rss-feed/?v=2" description="RSS feed for Breaking Defense, covering military, defense industry, and national security news."/>
+  </body>
+</opml>

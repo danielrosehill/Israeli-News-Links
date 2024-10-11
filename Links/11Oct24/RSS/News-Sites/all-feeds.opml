@@ -7,6 +7,8 @@
     <outline text="Arutz 7 - News Briefs" type="rss" xmlUrl="https://www.israelnationalnews.com/Rss.aspx" description="Arutz 7's feed for news briefs from Israel and abroad." />
     <outline text="BBC - Middle East" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" description="BBC's RSS feed for Middle East news." />
     <outline text="Calcalist Tech" type="rss" xmlUrl="https://www.calcalistech.com/GeneralRSSCtech/0,16665,L-5211,00.xml" description="RSS feed for Calcalist Tech news." />
+  <outline text="Crisis Group" type="rss" xmlUrl="https://www.crisisgroup.org/rss?tid=91" />
+    <outline text="Daily Sabah" type="rss" xmlUrl="https://www.dailysabah.com/rssFeed/12/13" />
   <outline text="Electronic Intifada" type="rss" xmlUrl="https://electronicintifada.net/rss.xml" description="RSS feed for Electronic Intifada." />
     <outline text="European Council on Foreign Relations" type="rss" xmlUrl="https://ecfr.eu/feed/" description="RSS feed for updates and analyses from the European Council on Foreign Relations." />
   <outline text="France 24 - Middle East" type="rss" xmlUrl="https://www.france24.com/en/middle-east/rss" description="France 24's RSS feed for Middle East news." />
@@ -29,8 +31,9 @@
   <outline text="Middle East Eye" type="rss" xmlUrl="https://www.middleeasteye.net/rss" />
     <outline text="New York Times - Middle East" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml" description="The New York Times' RSS feed for Middle East news." />
     <outline text="SCMP MIddle East" type="rss" xmlUrl="https://www.scmp.com/rss/322264/feed" />
+    <outline text="The Economist" type="rss" xmlUrl="https://www.economist.com/middle-east-and-africa/rss.xml" />
     <outline text="Times of India" type="rss" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/1898272.cms" />
-  <outline text="Times of Israel - All News" type="rss" xmlUrl="https://www.timesofisrael.com/feed/" description="Times of Israel's comprehensive RSS feed for all news." />
+    <outline text="Times of Israel - All News" type="rss" xmlUrl="https://www.timesofisrael.com/feed/" description="Times of Israel's comprehensive RSS feed for all news." />
     <outline text="UN Middle East" type="rss" xmlUrl="https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml" description="United Nations RSS feed for Middle East news and developments." />
     <outline text="US Secretary of State - Near East" type="rss" xmlUrl="https://www.state.gov/rss-feed/near-east/feed/" description="Official RSS feed for news and updates from the US Secretary of State focused on the Near East." />
     <outline text="VOA Middle East" type="rss" xmlUrl="https://www.voanews.com/api/zrbopeuvim" />
