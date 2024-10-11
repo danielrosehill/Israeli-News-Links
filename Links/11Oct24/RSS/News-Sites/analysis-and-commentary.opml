@@ -3,11 +3,11 @@
   <head>
     <title>Analysis RSS Feeds</title>
   </head>
-  <body>
+<body>
     <outline text="Al-Monitor" type="rss" xmlUrl="https://www.al-monitor.com/rss.xml"/>
     <outline text="Crisis Group" type="rss" xmlUrl="https://www.crisisgroup.org/rss?tid=91" />
-    <outline text="Middle East Eye" type="rss" xmlUrl="https://www.middleeasteye.net/rss"/>
-    <outline text="MEED" type="rss" xmlURL="http://www.meed.com/classifications/analysis/feed" />
     <outline text="Israel Behind The News" type="rss" xmlUrl="https://israelbehindthenews.com/feed/"/>
-  </body>
+    <outline text="MEED" type="rss" xmlURL="http://www.meed.com/classifications/analysis/feed" />
+    <outline text="Middle East Eye" type="rss" xmlUrl="https://www.middleeasteye.net/rss"/>
+</body>
 </opml>
