@@ -19,6 +19,14 @@
       {
         "name": "CGTN",
         "url": "https://www.cgtn.com/tv"
+      },
+      {
+        "name": "CBS",
+        "url": "https://www.cbsnews.com/live/"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/Live"
       }
     ]
   }
