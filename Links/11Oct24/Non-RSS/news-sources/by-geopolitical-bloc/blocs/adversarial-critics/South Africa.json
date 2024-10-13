@@ -54,7 +54,8 @@
         },
         {
             "Publication Name": "IOL News",
-            "Website": "https://www.iol.co.za"
+            "Website": "https://www.iol.co.za",
+            "Israel News": "https://www.iol.co.za/tags/israel"
         },
         {
             "Publication Name": "Mail & Guardian",
@@ -70,11 +71,8 @@
         },
         {
             "Publication Name": "News 24",
-            "Website": "https://www.news24.com"
-        },
-        {
-            "Publication Name": "News24",
-            "Website": "https://www.news24.com"
+            "Website": "https://www.news24.com",
+            "Israel News": "https://www.news24.com/tags/places/israel"
         },
         {
             "Publication Name": "SABC News",

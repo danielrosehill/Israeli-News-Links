@@ -2,7 +2,18 @@
     "Lebanon News Websites": [
         {
             "Publication Name": "An Nahar",
-            "Website": "https://www.annahar.com"
+            "Website": "https://www.annahar.com",
+            "Israel News": "https://www.naharnet.com/tags/israel"
+        },
+        {
+            "Publication Name": "Al-Manar TV",
+            "Website": "https://english.almanar.com.lb/",
+            "Israel News": "https://english.almanar.com.lb/cat/news"
+        },
+        {
+            "Publication Name": "Al Mayadeen English",
+            "Website": "https://english.almayadeen.net//",
+            "Israel News": "https://english.almayadeen.net/news/palestine"
         },
         {
             "Publication Name": "Daily Star",

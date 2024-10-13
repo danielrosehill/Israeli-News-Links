@@ -6,7 +6,19 @@
         },
         {
             "Publication Name": "Tehran Times",
-            "Website": "https://www.tehrantimes.com"
+            "Website": "https://www.tehrantimes.com",
+            "Israel News": "https://www.tehrantimes.com/tag/Israel"
+        },
+        {
+            "Publication Name": "Press TV",
+            "Website": "https://www.presstv.ir",
+            "Israel News": "https://www.presstv.ir/Tags/44"
+        },
+        {
+            "Publication Name": "Mehr News",
+            "Website": "https://en.mehrnews.com/",
+            "Israel News": "https://en.mehrnews.com/tag/Israeli+Regime"
         }
+        
     ]
 }

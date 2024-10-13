@@ -6,7 +6,8 @@
         },
         {
             "Publication Name": "Japan Times",
-            "Website": "https://www.japantimes.co.jp"
+            "Website": "https://www.japantimes.co.jp",
+            "Israel News": "https://www.japantimes.co.jp/tag/israel/"
         },
         {
             "Publication Name": "Jiji Press",
@@ -18,11 +19,13 @@
         },
         {
             "Publication Name": "NHK News",
-            "Website": "https://www3.nhk.or.jp/nhkworld/en"
+            "Website": "https://www3.nhk.or.jp/nhkworld/en",
+            "Israel News": "https://www3.nhk.or.jp/nhkworld/en/news/tags/132/"
         },
         {
             "Publication Name": "Nikkei Asia",
-            "Website": "https://asia.nikkei.com"
+            "Website": "https://asia.nikkei.com",
+            "Israel News": "https://asia.nikkei.com/Politics/Middle-East-crisis"
         },
         {
             "Publication Name": "The Asahi Shimbun",

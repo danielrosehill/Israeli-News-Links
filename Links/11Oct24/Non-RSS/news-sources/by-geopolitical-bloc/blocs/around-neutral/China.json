@@ -14,7 +14,8 @@
         },
         {
             "Publication Name": "China Daily",
-            "Website": "https://www.chinadaily.com.cn"
+            "Website": "https://www.chinadaily.com.cn",
+            "Israel News": "https://www.chinadaily.com.cn/world/special_coverage/6522001ea310d2dce4bb959a"
         },
         {
             "Publication Name": "China Economic Net",
@@ -22,7 +23,8 @@
         },
         {
             "Publication Name": "China Global Television Network (CGTN)",
-            "Website": "https://www.cgtn.com"
+            "Website": "https://www.cgtn.com",
+            "Israel News": "https://www.cgtn.com/specials/2023/palestine-israel-conflict.html"
         },
         {
             "Publication Name": "China.org.cn",
@@ -50,7 +52,8 @@
         },
         {
             "Publication Name": "Xinhua News",
-            "Website": "https://www.xinhuanet.com"
+            "Website": "https://www.xinhuanet.com",
+            "Israsel News": "http://www.xinhuanet.com/english/list/World-MiddleEast.htm"
         }
     ]
 }

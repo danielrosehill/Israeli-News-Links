@@ -6,11 +6,13 @@
         },
         {
             "Publication Name": "CBC News",
-            "Website": "https://www.cbc.ca"
+            "Website": "https://www.cbc.ca",
+            "Israel News": "https://www.cbc.ca/news/topic/Tag/Israel"
         },
         {
             "Publication Name": "CTV News",
-            "Website": "https://www.ctvnews.ca"
+            "Website": "https://www.ctvnews.ca",
+            "Israel News": "https://www.ctvnews.ca/world/israel-hamas-war"
         },
         {
             "Publication Name": "Digital Journal",
@@ -22,7 +24,8 @@
         },
         {
             "Publication Name": "Globe and Mail",
-            "Website": "https://www.theglobeandmail.com"
+            "Website": "https://www.theglobeandmail.com",
+            "Israel News": "https://www.theglobeandmail.com/topics/israel/"
         },
         {
             "Publication Name": "Gorilla Radio",
@@ -54,7 +57,8 @@
         },
         {
             "Publication Name": "Toronto Star",
-            "Website": "https://www.thestar.com"
+            "Website": "https://www.thestar.com",
+            "Israel News": "https://www.thestar.com/news/world/israel-hamas/"
         }
     ]
 }

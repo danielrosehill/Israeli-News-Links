@@ -2,15 +2,18 @@
     "Australia News Websites": [
         {
             "Publication Name": "7News",
-            "Website": "https://7news.com.au"
+            "Website": "https://7news.com.au",
+            "Israel News": "https://7news.com.au/news/israel"
         },
         {
             "Publication Name": "ABC Radio Australia",
-            "Website": "https://www.abc.net.au/radio-australia"
+            "Website": "https://www.abc.net.au/radio-australia",
+            "Israel News": "https://www.abc.net.au/news/topic/israel"
         },
         {
             "Publication Name": "Adelaide Now",
-            "Website": "https://www.adelaidenow.com.au"
+            "Website": "https://www.adelaidenow.com.au",
+            "Israel News": "https://www.adelaidenow.com.au/topics/israel-conflict"
         },
         {
             "Publication Name": "Australian Broadcasting Corporation (ABC)",
@@ -18,7 +21,8 @@
         },
         {
             "Publication Name": "Australian Financial Review",
-            "Website": "https://www.afr.com"
+            "Website": "https://www.afr.com",
+            "Israel News": "https://www.afr.com/topic/israel-azy"
         },
         {
             "Publication Name": "Australian News Channel",
@@ -30,7 +34,8 @@
         },
         {
             "Publication Name": "Brisbane Times",
-            "Website": "https://www.brisbanetimes.com.au"
+            "Website": "https://www.brisbanetimes.com.au",
+            "Israel News": "https://www.brisbanetimes.com.au/topic/israel-azy"
         },
         {
             "Publication Name": "Canberra Times",
@@ -46,11 +51,13 @@
         },
         {
             "Publication Name": "Herald Sun",
-            "Website": "https://www.heraldsun.com.au"
+            "Website": "https://www.heraldsun.com.au",
+            "Israel News": "https://www.heraldsun.com.au/topics/israel-conflict"
         },
         {
             "Publication Name": "News.com.au",
-            "Website": "https://www.news.com.au"
+            "Website": "https://www.news.com.au",
+            "Israel News": "https://www.news.com.au/world/middle-east"
         },
         {
             "Publication Name": "Nine News",
@@ -70,11 +77,8 @@
         },
         {
             "Publication Name": "The Australian",
-            "Website": "https://www.theaustralian.com.au"
-        },
-        {
-            "Publication Name": "The Sydney Morning Herald",
-            "Website": "https://www.smh.com.au"
+            "Website": "https://www.theaustralian.com.au",
+            "Israel News": "https://www.theaustralian.com.au/topics/israel"
         }
     ]
 }

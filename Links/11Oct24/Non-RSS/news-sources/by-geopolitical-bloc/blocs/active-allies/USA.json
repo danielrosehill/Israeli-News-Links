@@ -2,15 +2,18 @@
     "USA News Websites": [
         {
             "Publication Name": "ABC News",
-            "Website": "https://abcnews.go.com"
+            "Website": "https://abcnews.go.com",
+            "Israel News": "https://abcnews.go.com/International/live-updates/israel-gaza-lebanon-updates-idf-beirut/?id=114550596"
         },
         {
             "Publication Name": "Al-Monitor",
-            "Website": "https://www.al-monitor.com"
+            "Website": "https://www.al-monitor.com",
+            "Israel News": "https://www.al-monitor.com/israel"
         },
         {
             "Publication Name": "Associated Press (AP)",
-            "Website": "https://apnews.com"
+            "Website": "https://apnews.com",
+            "Israel News": "https://apnews.com/hub/israel"
         },
         {
             "Publication Name": "Atlanta Journal-Constitution",
@@ -18,7 +21,8 @@
         },
         {
             "Publication Name": "Axios",
-            "Website": "https://www.axios.com"
+            "Website": "https://www.axios.com",
+            "Israel News": "https://www.axios.com/world/israel"
         },
         {
             "Publication Name": "Barron's",
@@ -38,15 +42,18 @@
         },
         {
             "Publication Name": "Bloomberg",
-            "Website": "https://www.bloomberg.com"
+            "Website": "https://www.bloomberg.com",
+            "Israel News": "https://www.bloomberg.com/israel-hamas-war"
         },
         {
             "Publication Name": "Boston Globe",
-            "Website": "https://www.bostonglobe.com"
+            "Website": "https://www.bostonglobe.com",
+            "Israel News": "https://www.bostonglobe.com/world/middle-east/"
         },
         {
             "Publication Name": "Business Insider",
-            "Website": "https://www.businessinsider.com"
+            "Website": "https://www.businessinsider.com",
+            "Israel News": "https://www.businessinsider.com/category/israel"
         },
         {
             "Publication Name": "Catholic News Service",
@@ -74,11 +81,13 @@
         },
         {
             "Publication Name": "CNBC",
-            "Website": "https://www.cnbc.com"
+            "Website": "https://www.cnbc.com",
+            "Israel News": "https://www.cnbc.com/israel-news/"
         },
         {
             "Publication Name": "CNN International",
-            "Website": "https://edition.cnn.com"
+            "Website": "https://edition.cnn.com",
+            "Israel News": "https://edition.cnn.com/world/live-news/israel-war-iran-palestine-lebanon-10-12-24/index.html"
         },
         {
             "Publication Name": "CNN",
@@ -110,11 +119,13 @@
         },
         {
             "Publication Name": "Fortune",
-            "Website": "https://www.fortune.com"
+            "Website": "https://www.fortune.com",
+            "Israel News": "https://fortune.com/tag/israel/"
         },
         {
             "Publication Name": "Fox News",
-            "Website": "https://www.foxnews.com"
+            "Website": "https://www.foxnews.com",
+            "Israel News": "https://www.foxnews.com/category/world/world-regions/israel"
         },
         {
             "Publication Name": "Fremont Tribune",
@@ -154,7 +165,8 @@
         },
         {
             "Publication Name": "Los Angeles Times",
-            "Website": "https://www.latimes.com"
+            "Website": "https://www.latimes.com",
+            "Israel News": "https://www.latimes.com/topic/israel-hamas"
         },
         {
             "Publication Name": "MarketWatch",
@@ -182,15 +194,18 @@
         },
         {
             "Publication Name": "NBC News",
-            "Website": "https://www.nbcnews.com"
+            "Website": "https://www.nbcnews.com",
+            "Israel News": "https://www.nbcnews.com/middle-east-conflict"
         },
         {
             "Publication Name": "New York Post",
-            "Website": "https://nypost.com"
+            "Website": "https://nypost.com",
+            "Israel News": "https://nypost.com/tag/israel/"
         },
         {
             "Publication Name": "New York Times",
-            "Website": "https://www.nytimes.com"
+            "Website": "https://www.nytimes.com",
+            "Israel News": "https://www.nytimes.com/topic/destination/israel"
         },
         {
             "Publication Name": "News Tribune",
@@ -206,7 +221,8 @@
         },
         {
             "Publication Name": "Politico",
-            "Website": "https://www.politico.com"
+            "Website": "https://www.politico.com",
+            "Israel News": "https://www.politico.com/news/israel"
         },
         {
             "Publication Name": "Radio Free Asia",
@@ -238,11 +254,13 @@
         },
         {
             "Publication Name": "USA Today",
-            "Website": "https://www.usatoday.com"
+            "Website": "https://www.usatoday.com",
+            "Israel News": "https://www.usatoday.com/news/israel-war-hamas/"
         },
         {
             "Publication Name": "Washington Post",
-            "Website": "https://www.washingtonpost.com"
+            "Website": "https://www.washingtonpost.com",
+            "Israel News": "https://www.washingtonpost.com/israel-hamas-war/"
         }
     ]
 }

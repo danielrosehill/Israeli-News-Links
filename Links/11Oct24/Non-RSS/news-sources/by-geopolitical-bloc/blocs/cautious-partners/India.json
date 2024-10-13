@@ -54,15 +54,18 @@
         },
         {
             "Publication Name": "India Today",
-            "Website": "https://www.indiatoday.in"
+            "Website": "https://www.indiatoday.in",
+            "Israel News": "https://www.indiatoday.in/topic/israel"
         },
         {
             "Publication Name": "India TV",
-            "Website": "https://www.indiatvnews.com"
+            "Website": "https://www.indiatvnews.com",
+            "Israel News": "https://www.indiatvnews.com/topic/israel/news"
         },
         {
             "Publication Name": "Indian Express",
-            "Website": "https://www.indianexpress.com"
+            "Website": "https://www.indianexpress.com",
+            "Israel News": "https://indianexpress.com/about/israel/"
         },
         {
             "Publication Name": "Indian Express",
@@ -86,7 +89,8 @@
         },
         {
             "Publication Name": "NDTV",
-            "Website": "https://www.ndtv.com"
+            "Website": "https://www.ndtv.com",
+            "Israel News": "https://www.ndtv.com/topic/israel"
         },
         {
             "Publication Name": "News 18",
@@ -102,7 +106,8 @@
         },
         {
             "Publication Name": "The Hindu",
-            "Website": "https://www.thehindu.com"
+            "Website": "https://www.thehindu.com",
+            "Israel News": "https://www.thehindu.com/topic/israel-palestine-conflict/"
         },
         {
             "Publication Name": "The New Indian Express",
@@ -118,7 +123,8 @@
         },
         {
             "Publication Name": "Times of India",
-            "Website": "https://www.timesofindia.indiatimes.com"
+            "Website": "https://www.timesofindia.indiatimes.com",
+            "Israel News": "https://timesofindia.indiatimes.com/topic/israel"
         },
         {
             "Publication Name": "Zee News",
