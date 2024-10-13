@@ -35,7 +35,9 @@
         {
             "Publication Name": "Brisbane Times",
             "Website": "https://www.brisbanetimes.com.au",
-            "Israel News": "https://www.brisbanetimes.com.au/topic/israel-azy"
+            "Israel News": "https://www.brisbanetimes.com.au/topic/israel-azy",
+            "Main RSS": "https://www.brisbanetimes.com.au/rss/feed.xml",
+            "World News RSS": "https://www.brisbanetimes.com.au/rss/world.xml"
         },
         {
             "Publication Name": "Canberra Times",
