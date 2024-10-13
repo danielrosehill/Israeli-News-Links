@@ -1,0 +1,21 @@
+{
+    "World_2": [
+      {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/live"
+      },
+      {
+        "name": "Sky News",
+        "url": "https://www.youtube.com/watch?v=oJUvTVdTMyY&ab_channel=SkyNews"
+      },
+      {
+        "name": "DW",
+        "url": "https://www.dw.com/en/live-tv/channel-english"
+      },
+      {
+        "name": "RT",
+        "url": "https://www.rt.com/on-air/"
+      }
+    ]
+  }
+  

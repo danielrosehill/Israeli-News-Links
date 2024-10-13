@@ -1,0 +1,21 @@
+{
+    "Asia": [
+      {
+        "name": "NHK",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/live/"
+      },
+      {
+        "name": "CGTN",
+        "url": "https://www.cgtn.com/tv"
+      },
+      {
+        "name": "Bloomberg Asia",
+        "url": "https://www.bloomberg.com/live/asia"
+      },
+      {
+        "name": "NDTV",
+        "url": "https://www.ndtv.com/livetv-ndtv24x7"
+      }
+    ]
+  }
+  

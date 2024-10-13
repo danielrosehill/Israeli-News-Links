@@ -1,0 +1,21 @@
+{
+    "US_TV_News": [
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/Live"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live/"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/now"
+      },
+      {
+        "name": "VOA",
+        "url": "https://www.voanews.com/live/video/116"
+      }
+    ]
+  }
+  

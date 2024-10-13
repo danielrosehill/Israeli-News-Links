@@ -1,0 +1,20 @@
+{
+  "Israeli_TV": [
+    {
+      "name": "i24 News",
+      "url": "https://video.i24news.tv/live/brightcove/en"
+    },
+    {
+      "name": "Kan 11",
+      "url": "https://www.kan.org.il/live/"
+    },
+    {
+      "name": "Channel 13",
+      "url": "https://13tv.co.il/live/"
+    },
+    {
+      "name": "Channel 14",
+      "url": "https://www.now14.co.il/live"
+    }
+  ]
+}
