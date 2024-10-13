@@ -1,0 +1,13 @@
+<opml version="2.0">
+  <head>
+    <title>UK & Ireland RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="BBC News - Middle East" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"/>
+    <outline text="The Guardian - Middle East" type="rss" xmlUrl="https://www.theguardian.com/world/middleeast/rss"/>
+    <outline text="The Independent - Middle East" type="rss" xmlUrl="https://www.independent.co.uk/news/world/middle-east/rss"/>
+    <outline text="Sky News - World News" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/world.xml"/>
+    <outline text="The Telegraph - World News" type="rss" xmlUrl="https://www.telegraph.co.uk/news/world/rss"/>
+        <outline text="Irish Examiner World News" type="rss" xmlUrl="https://feeds.feedburner.com/ieworld"/>
+  </body>
+</opml>

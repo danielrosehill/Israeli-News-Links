@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Middle East News RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="Israel and Middle East News">
+      <outline text="The Jerusalem Post" type="rss" xmlUrl="https://www.jpost.com/rss/rssfeedsfrontpage.aspx" />
+      <outline text="Haaretz" type="rss" xmlUrl="https://www.haaretz.com/cmlink/1.4605045" />
+      <outline text="The Times of Israel" type="rss" xmlUrl="https://www.timesofisrael.com/feed/" />
+      <outline text="Ynet News" type="rss" xmlUrl="https://www.ynetnews.com/RSS/5.xml" />
+    </outline>
+    <outline text="Palestine and Middle East News">
+      <outline text="Ma'an News Agency" type="rss" xmlUrl="http://www.maannews.net/ENG/Rss.aspx?Count=20" />
+      <outline text="Palestine Chronicle" type="rss" xmlUrl="https://www.palestinechronicle.com/feed/" />
+    </outline>
+    <outline text="Regional Middle East News">
+      <outline text="Al Jazeera" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" />
+      <outline text="Al Arabiya" type="rss" xmlUrl="https://english.alarabiya.net/feed/rss2" />
+      <outline text="The National (UAE)" type="rss" xmlUrl="https://www.thenationalnews.com/rss" />
+      <outline text="Arab News" type="rss" xmlUrl="https://www.arabnews.com/rss.xml" />
+    </outline>
+  </body>
+</opml>
