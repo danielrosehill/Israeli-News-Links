@@ -1,0 +1,36 @@
+[
+    {
+      "Title": "Hostile Critics",
+      "Description": "Countries that criticize Israel regularly and often align themselves with anti-Israel positions but do not directly seek its destruction.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Pakistan",
+          "ISO 3166 A-2": "PK"
+        },
+        {
+          "Country Name ISO 3166": "Malaysia",
+          "ISO 3166 A-2": "MY"
+        },
+        {
+          "Country Name ISO 3166": "Turkey",
+          "ISO 3166 A-2": "TR"
+        },
+        {
+          "Country Name ISO 3166": "Algeria",
+          "ISO 3166 A-2": "DZ"
+        },
+        {
+          "Country Name ISO 3166": "Iraq",
+          "ISO 3166 A-2": "IQ"
+        },
+        {
+          "Country Name ISO 3166": "Tunisia",
+          "ISO 3166 A-2": "TN"
+        },
+        {
+          "Country Name ISO 3166": "Libya",
+          "ISO 3166 A-2": "LY"
+        }
+      ]
+    }
+  ]

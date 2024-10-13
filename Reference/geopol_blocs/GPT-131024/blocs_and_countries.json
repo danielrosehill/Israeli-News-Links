@@ -1,0 +1,314 @@
+[
+    {
+      "Title": "Sworn Enemies",
+      "Description": "Countries that have consistently and vocally opposed Israel's existence, frequently supporting anti-Israel resolutions and maintaining hostile diplomatic stances. Examples include Iran and Syria.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Iran",
+          "ISO 3166 A-2": "IR"
+        },
+        {
+          "Country Name ISO 3166": "Syria",
+          "ISO 3166 A-2": "SY"
+        },
+        {
+          "Country Name ISO 3166": "Lebanon",
+          "ISO 3166 A-2": "LB"
+        },
+        {
+          "Country Name ISO 3166": "Yemen",
+          "ISO 3166 A-2": "YE"
+        },
+        {
+          "Country Name ISO 3166": "Qatar",
+          "ISO 3166 A-2": "QA"
+        }
+      ]
+    },
+    {
+      "Title": "Hostile Critics",
+      "Description": "Countries that criticize Israel regularly and often align themselves with anti-Israel positions but do not directly seek its destruction.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Pakistan",
+          "ISO 3166 A-2": "PK"
+        },
+        {
+          "Country Name ISO 3166": "Malaysia",
+          "ISO 3166 A-2": "MY"
+        },
+        {
+          "Country Name ISO 3166": "Turkey",
+          "ISO 3166 A-2": "TR"
+        },
+        {
+          "Country Name ISO 3166": "Algeria",
+          "ISO 3166 A-2": "DZ"
+        },
+        {
+          "Country Name ISO 3166": "Iraq",
+          "ISO 3166 A-2": "IQ"
+        },
+        {
+          "Country Name ISO 3166": "Tunisia",
+          "ISO 3166 A-2": "TN"
+        },
+        {
+          "Country Name ISO 3166": "Libya",
+          "ISO 3166 A-2": "LY"
+        }
+      ]
+    },
+    {
+      "Title": "Adversarial Critics",
+      "Description": "Countries that maintain diplomatic relations with Israel but are often openly hostile towards its policies, particularly concerning the Palestinian territories.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Ireland",
+          "ISO 3166 A-2": "IE"
+        },
+        {
+          "Country Name ISO 3166": "Norway",
+          "ISO 3166 A-2": "NO"
+        },
+        {
+          "Country Name ISO 3166": "South Africa",
+          "ISO 3166 A-2": "ZA"
+        },
+        {
+          "Country Name ISO 3166": "Sweden",
+          "ISO 3166 A-2": "SE"
+        },
+        {
+          "Country Name ISO 3166": "Belgium",
+          "ISO 3166 A-2": "BE"
+        },
+        {
+          "Country Name ISO 3166": "Spain",
+          "ISO 3166 A-2": "ES"
+        },
+        {
+          "Country Name ISO 3166": "Portugal",
+          "ISO 3166 A-2": "PT"
+        },
+        {
+          "Country Name ISO 3166": "Finland",
+          "ISO 3166 A-2": "FI"
+        },
+        {
+          "Country Name ISO 3166": "Denmark",
+          "ISO 3166 A-2": "DK"
+        },
+        {
+          "Country Name ISO 3166": "Scotland",
+          "ISO 3166 A-2": "GB-SCT"
+        }
+      ]
+    },
+    {
+      "Title": "Cautious Partners",
+      "Description": "Countries that maintain formal diplomatic relations and cooperate with Israel but are also cautious due to regional or domestic sensitivities.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "India",
+          "ISO 3166 A-2": "IN"
+        },
+        {
+          "Country Name ISO 3166": "Jordan",
+          "ISO 3166 A-2": "JO"
+        },
+        {
+          "Country Name ISO 3166": "Egypt",
+          "ISO 3166 A-2": "EG"
+        },
+        {
+          "Country Name ISO 3166": "Morocco",
+          "ISO 3166 A-2": "MA"
+        },
+        {
+          "Country Name ISO 3166": "Oman",
+          "ISO 3166 A-2": "OM"
+        },
+        {
+          "Country Name ISO 3166": "Bahrain",
+          "ISO 3166 A-2": "BH"
+        },
+        {
+          "Country Name ISO 3166": "United Arab Emirates",
+          "ISO 3166 A-2": "AE"
+        },
+        {
+          "Country Name ISO 3166": "Kazakhstan",
+          "ISO 3166 A-2": "KZ"
+        }
+      ]
+    },
+    {
+      "Title": "Active Allies",
+      "Description": "Countries that actively support Israel both politically and economically, maintaining a friendly diplomatic relationship.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "United States of America",
+          "ISO 3166 A-2": "US"
+        },
+        {
+          "Country Name ISO 3166": "United Kingdom",
+          "ISO 3166 A-2": "GB"
+        },
+        {
+          "Country Name ISO 3166": "Germany",
+          "ISO 3166 A-2": "DE"
+        },
+        {
+          "Country Name ISO 3166": "Australia",
+          "ISO 3166 A-2": "AU"
+        },
+        {
+          "Country Name ISO 3166": "Canada",
+          "ISO 3166 A-2": "CA"
+        },
+        {
+          "Country Name ISO 3166": "Italy",
+          "ISO 3166 A-2": "IT"
+        },
+        {
+          "Country Name ISO 3166": "Netherlands",
+          "ISO 3166 A-2": "NL"
+        },
+        {
+          "Country Name ISO 3166": "Czech Republic",
+          "ISO 3166 A-2": "CZ"
+        },
+        {
+          "Country Name ISO 3166": "Hungary",
+          "ISO 3166 A-2": "HU"
+        },
+        {
+          "Country Name ISO 3166": "Poland",
+          "ISO 3166 A-2": "PL"
+        }
+      ]
+    },
+    {
+      "Title": "Cordial Relations",
+      "Description": "Countries that maintain friendly diplomatic relations with Israel but are less vocal in their support compared to Active Allies.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Japan",
+          "ISO 3166 A-2": "JP"
+        },
+        {
+          "Country Name ISO 3166": "Mexico",
+          "ISO 3166 A-2": "MX"
+        },
+        {
+          "Country Name ISO 3166": "Greece",
+          "ISO 3166 A-2": "GR"
+        },
+        {
+          "Country Name ISO 3166": "Kenya",
+          "ISO 3166 A-2": "KE"
+        },
+        {
+          "Country Name ISO 3166": "Philippines",
+          "ISO 3166 A-2": "PH"
+        },
+        {
+          "Country Name ISO 3166": "South Korea",
+          "ISO 3166 A-2": "KR"
+        },
+        {
+          "Country Name ISO 3166": "New Zealand",
+          "ISO 3166 A-2": "NZ"
+        },
+        {
+          "Country Name ISO 3166": "Singapore",
+          "ISO 3166 A-2": "SG"
+        }
+      ]
+    },
+    {
+      "Title": "Indifferent or Neutral",
+      "Description": "Countries that remain largely neutral towards Israel and do not regularly comment on Israel-related international matters.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "China",
+          "ISO 3166 A-2": "CN"
+        },
+        {
+          "Country Name ISO 3166": "Brazil",
+          "ISO 3166 A-2": "BR"
+        },
+        {
+          "Country Name ISO 3166": "Vietnam",
+          "ISO 3166 A-2": "VN"
+        },
+        {
+          "Country Name ISO 3166": "Argentina",
+          "ISO 3166 A-2": "AR"
+        },
+        {
+          "Country Name ISO 3166": "Thailand",
+          "ISO 3166 A-2": "TH"
+        },
+        {
+          "Country Name ISO 3166": "Colombia",
+          "ISO 3166 A-2": "CO"
+        },
+        {
+          "Country Name ISO 3166": "Sri Lanka",
+          "ISO 3166 A-2": "LK"
+        },
+        {
+          "Country Name ISO 3166": "Nepal",
+          "ISO 3166 A-2": "NP"
+        },
+        {
+          "Country Name ISO 3166": "Cambodia",
+          "ISO 3166 A-2": "KH"
+        }
+      ]
+    },
+    {
+      "Title": "No Relations",
+      "Description": "Countries that do not maintain any formal diplomatic relations with Israel, often due to regional alliances or domestic political reasons.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Saudi Arabia",
+          "ISO 3166 A-2": "SA"
+        },
+        {
+          "Country Name ISO 3166": "Bangladesh",
+          "ISO 3166 A-2": "BD"
+        },
+        {
+          "Country Name ISO 3166": "Kuwait",
+          "ISO 3166 A-2": "KW"
+        },
+        {
+          "Country Name ISO 3166": "Indonesia",
+          "ISO 3166 A-2": "ID"
+        },
+        {
+          "Country Name ISO 3166": "Afghanistan",
+          "ISO 3166 A-2": "AF"
+        },
+        {
+          "Country Name ISO 3166": "Sudan",
+          "ISO 3166 A-2": "SD"
+        },
+        {
+          "Country Name ISO 3166": "North Korea",
+          "ISO 3166 A-2": "KP"
+        },
+        {
+          "Country Name ISO 3166": "Somalia",
+          "ISO 3166 A-2": "SO"
+        },
+        {
+          "Country Name ISO 3166": "Cuba",
+          "ISO 3166 A-2": "CU"
+        }
+      ]
+    }
+  ]

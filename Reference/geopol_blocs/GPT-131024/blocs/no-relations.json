@@ -1,0 +1,44 @@
+[
+    {
+      "Title": "No Relations",
+      "Description": "Countries that do not maintain any formal diplomatic relations with Israel, often due to regional alliances or domestic political reasons.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Saudi Arabia",
+          "ISO 3166 A-2": "SA"
+        },
+        {
+          "Country Name ISO 3166": "Bangladesh",
+          "ISO 3166 A-2": "BD"
+        },
+        {
+          "Country Name ISO 3166": "Kuwait",
+          "ISO 3166 A-2": "KW"
+        },
+        {
+          "Country Name ISO 3166": "Indonesia",
+          "ISO 3166 A-2": "ID"
+        },
+        {
+          "Country Name ISO 3166": "Afghanistan",
+          "ISO 3166 A-2": "AF"
+        },
+        {
+          "Country Name ISO 3166": "Sudan",
+          "ISO 3166 A-2": "SD"
+        },
+        {
+          "Country Name ISO 3166": "North Korea",
+          "ISO 3166 A-2": "KP"
+        },
+        {
+          "Country Name ISO 3166": "Somalia",
+          "ISO 3166 A-2": "SO"
+        },
+        {
+          "Country Name ISO 3166": "Cuba",
+          "ISO 3166 A-2": "CU"
+        }
+      ]
+    }
+  ]

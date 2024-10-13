@@ -1,0 +1,50 @@
+[
+    {
+      "Title": "Sworn Enemies",
+      "Description": "Countries that have consistently and vocally opposed Israel's existence, frequently supporting anti-Israel resolutions and maintaining hostile diplomatic stances. Examples include Iran and Syria.",
+      "Number of Countries": 5,
+      "Example Countries": ["Iran", "Syria", "Lebanon"]
+    },
+    {
+      "Title": "Hostile Critics",
+      "Description": "Countries that criticize Israel regularly and often align themselves with anti-Israel positions but do not directly seek its destruction.",
+      "Number of Countries": 7,
+      "Example Countries": ["Pakistan", "Malaysia", "Turkey"]
+    },
+    {
+      "Title": "Adversarial Critics",
+      "Description": "Countries that maintain diplomatic relations with Israel but are often openly hostile towards its policies, particularly concerning the Palestinian territories.",
+      "Number of Countries": 10,
+      "Example Countries": ["Ireland", "Norway", "South Africa"]
+    },
+    {
+      "Title": "Cautious Partners",
+      "Description": "Countries that maintain formal diplomatic relations and cooperate with Israel but are also cautious due to regional or domestic sensitivities.",
+      "Number of Countries": 8,
+      "Example Countries": ["India", "Jordan", "Egypt"]
+    },
+    {
+      "Title": "Active Allies",
+      "Description": "Countries that actively support Israel both politically and economically, maintaining a friendly diplomatic relationship.",
+      "Number of Countries": 10,
+      "Example Countries": ["United States of America", "United Kingdom", "Germany"]
+    },
+    {
+      "Title": "Cordial Relations",
+      "Description": "Countries that maintain friendly diplomatic relations with Israel but are less vocal in their support compared to Active Allies.",
+      "Number of Countries": 8,
+      "Example Countries": ["Japan", "Mexico", "Greece"]
+    },
+    {
+      "Title": "Indifferent or Neutral",
+      "Description": "Countries that remain largely neutral towards Israel and do not regularly comment on Israel-related international matters.",
+      "Number of Countries": 9,
+      "Example Countries": ["China", "Brazil", "Vietnam"]
+    },
+    {
+      "Title": "No Relations",
+      "Description": "Countries that do not maintain any formal diplomatic relations with Israel, often due to regional alliances or domestic political reasons.",
+      "Number of Countries": 9,
+      "Example Countries": ["Saudi Arabia", "Bangladesh", "Kuwait"]
+    }
+  ]

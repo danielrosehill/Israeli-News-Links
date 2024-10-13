@@ -1,0 +1,40 @@
+[
+    {
+      "Title": "Cautious Partners",
+      "Description": "Countries that maintain formal diplomatic relations and cooperate with Israel but are also cautious due to regional or domestic sensitivities.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "India",
+          "ISO 3166 A-2": "IN"
+        },
+        {
+          "Country Name ISO 3166": "Jordan",
+          "ISO 3166 A-2": "JO"
+        },
+        {
+          "Country Name ISO 3166": "Egypt",
+          "ISO 3166 A-2": "EG"
+        },
+        {
+          "Country Name ISO 3166": "Morocco",
+          "ISO 3166 A-2": "MA"
+        },
+        {
+          "Country Name ISO 3166": "Oman",
+          "ISO 3166 A-2": "OM"
+        },
+        {
+          "Country Name ISO 3166": "Bahrain",
+          "ISO 3166 A-2": "BH"
+        },
+        {
+          "Country Name ISO 3166": "United Arab Emirates",
+          "ISO 3166 A-2": "AE"
+        },
+        {
+          "Country Name ISO 3166": "Kazakhstan",
+          "ISO 3166 A-2": "KZ"
+        }
+      ]
+    }
+  ]

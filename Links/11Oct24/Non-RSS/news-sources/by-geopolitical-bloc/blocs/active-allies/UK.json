@@ -1,0 +1,128 @@
+{
+    "UK News Websites": [
+        {
+            "Publication Name": "Al-Quds Al-Arabi",
+            "Website": "https://www.alquds.co.uk"
+        },
+        {
+            "Publication Name": "BBC Arabic",
+            "Website": "https://www.bbc.com/arabic"
+        },
+        {
+            "Publication Name": "BBC News",
+            "Website": "https://www.bbc.com",
+            "Israel News": "https://www.bbc.com/news/topics/c302m85q5ljt"
+        },
+        {
+            "Publication Name": "Belfast Telegraph",
+            "Website": "https://www.belfasttelegraph.co.uk",
+            "Israel News": "https://www.belfasttelegraph.co.uk/tag/israel"
+        },
+        {
+            "Publication Name": "Channel 4 News",
+            "Website": "https://www.channel4.com",
+            "Israel News": "https://www.channel4.com/news/world/israel"
+        },
+        {
+            "Publication Name": "City A.M.",
+            "Website": "https://www.cityam.com",
+            "Israel News": "https://www.cityam.com/topic/israel-and-palestine/"
+        },
+        {
+            "Publication Name": "Daily Express",
+            "Website": "https://www.express.co.uk",
+            "Israel News": "https://www.express.co.uk/latest/israel"
+        },
+        {
+            "Publication Name": "Daily Mail",
+            "Website": "https://www.dailymail.co.uk",
+            "Israel News": "https://www.dailymail.co.uk/news/israel/index.html"
+        },
+        {
+            "Publication Name": "Daily Mirror",
+            "Website": "https://www.mirror.co.uk",
+            "Israel News": "https://www.mirror.co.uk/all-about/israel?pageNumber=2"
+        },
+        {
+            "Publication Name": "Daily Telegraph",
+            "Website": "https://www.telegraph.co.uk"
+        },
+        {
+            "Publication Name": "Evening Standard",
+            "Website": "https://www.standard.co.uk",
+            "Israel News": "https://www.standard.co.uk/topic/israel"
+        },
+        {
+            "Publication Name": "Financial Times",
+            "Website": "https://www.ft.com",
+            "Israel News": "https://www.ft.com/israel"
+        },
+        {
+            "Publication Name": "First News",
+            "Website": "https://www.firstnews.co.uk",
+            "Israel News": "https://www.firstnews.co.uk/israel-gaza/"
+        },
+        {
+            "Publication Name": "Fudzilla",
+            "Website": "https://www.fudzilla.com",
+            "Israel News": "https://www.fudzilla.com/news/mobile/tag/Israel"
+        },
+        {
+            "Publication Name": "Herald Scotland",
+            "Website": "https://www.heraldscotland.com",
+            "Israel News": "https://www.heraldscotland.com/news/12507452.israel-and-palestine/"
+        },
+        {
+            "Publication Name": "Middle East Eye",
+            "Website": "https://www.middleeasteye.net",
+            "Israel News": "https://www.middleeasteye.net/countries/israel"
+        },
+        {
+            "Publication Name": "Middle East Monitor",
+            "Website": "https://www.middleeastmonitor.com"
+        },
+        {
+            "Publication Name": "Reuters",
+            "Website": "https://www.reuters.com",
+            "Israel News": "https://www.reuters.com/world/israel-hamas/"
+        },
+        {
+            "Publication Name": "Scotsman",
+            "Website": "https://www.scotsman.com",
+            "Israel News": "https://www.scotsman.com/topic/israel"
+        },
+        {
+            "Publication Name": "Sheffield Telegraph",
+            "Website": "https://www.sheffieldtelegraph.co.uk",
+            "Israel News": "https://www.sheffieldtelegraph.co.uk/topic/israel"
+        },
+        {
+            "Publication Name": "Shropshire Star",
+            "Website": "https://www.shropshirestar.com"
+        },
+        {
+            "Publication Name": "Sky News",
+            "Website": "https://news.sky.com",
+            "Israel News": "https://news.sky.com/topic/israel-5981"
+        },
+        {
+            "Publication Name": "The Daily Telegraph",
+            "Website": "https://www.telegraph.co.uk",
+            "Israel News": "https://www.telegraph.co.uk/israel/"
+        },
+        {
+            "Publication Name": "The Guardian",
+            "Website": "https://www.theguardian.com",
+            "Israel News": "https://www.theguardian.com/world/israel"
+        },
+        {
+            "Publication Name": "The Independent",
+            "Website": "https://www.independent.co.uk",
+            "Israel News": "https://www.independent.co.uk/topic/israel"
+        },
+        {
+            "Publication Name": "The Times",
+            "Website": "https://www.thetimes.co.uk"
+        }
+    ]
+}
