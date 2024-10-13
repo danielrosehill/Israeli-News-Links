@@ -1,0 +1,28 @@
+{
+    "Mexico News Websites": [
+        {
+            "Publication Name": "Azteca Noticias",
+            "Website": "https://www.tvazteca.com"
+        },
+        {
+            "Publication Name": "El Financiero",
+            "Website": "https://www.elfinanciero.com.mx"
+        },
+        {
+            "Publication Name": "El Sol de M\u00e9xico",
+            "Website": "https://www.elsoldemexico.com.mx"
+        },
+        {
+            "Publication Name": "El Universal",
+            "Website": "https://www.eluniversal.com.mx"
+        },
+        {
+            "Publication Name": "La Jornada",
+            "Website": "https://www.jornada.com.mx"
+        },
+        {
+            "Publication Name": "Record",
+            "Website": "https://www.record.com.mx"
+        }
+    ]
+}

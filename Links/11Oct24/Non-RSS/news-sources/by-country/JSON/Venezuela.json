@@ -1,0 +1,20 @@
+{
+    "Venezuela News Websites": [
+        {
+            "Publication Name": "El Nacional",
+            "Website": "https://www.el-nacional.com"
+        },
+        {
+            "Publication Name": "El Nacional",
+            "Website": "https://www.elnacional.com"
+        },
+        {
+            "Publication Name": "El Universal",
+            "Website": "https://www.eluniversal.com"
+        },
+        {
+            "Publication Name": "Orinoco Tribune",
+            "Website": "https://orinocotribune.com"
+        }
+    ]
+}

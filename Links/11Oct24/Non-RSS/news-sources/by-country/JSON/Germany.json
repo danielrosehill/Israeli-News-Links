@@ -1,0 +1,64 @@
+{
+    "Germany News Websites": [
+        {
+            "Publication Name": "Berliner Morgenpost",
+            "Website": "https://www.morgenpost.de"
+        },
+        {
+            "Publication Name": "Berliner Zeitung",
+            "Website": "https://www.berliner-zeitung.de"
+        },
+        {
+            "Publication Name": "BILD",
+            "Website": "https://www.bild.de"
+        },
+        {
+            "Publication Name": "Der Spiegel",
+            "Website": "https://www.spiegel.de"
+        },
+        {
+            "Publication Name": "Deutsche Welle (DW)",
+            "Website": "https://www.dw.com"
+        },
+        {
+            "Publication Name": "Deutsche Wirtschafts Nachrichten",
+            "Website": "https://www.deutsche-wirtschafts-nachrichten.de"
+        },
+        {
+            "Publication Name": "Die Welt",
+            "Website": "https://www.welt.de"
+        },
+        {
+            "Publication Name": "Die Zeit",
+            "Website": "https://www.zeit.de"
+        },
+        {
+            "Publication Name": "Financial Times Deutschland",
+            "Website": "https://www.ftd.de"
+        },
+        {
+            "Publication Name": "Frankfurter Allgemeine Zeitung",
+            "Website": "https://www.faz.net"
+        },
+        {
+            "Publication Name": "Frankfurter Neue Presse",
+            "Website": "https://www.fnp.de"
+        },
+        {
+            "Publication Name": "Frankfurter Rundschau",
+            "Website": "https://www.fr.de"
+        },
+        {
+            "Publication Name": "InfoMigrants",
+            "Website": "https://www.infomigrants.net"
+        },
+        {
+            "Publication Name": "Stuttgarter Zeitung",
+            "Website": "https://www.stuttgarter-zeitung.de"
+        },
+        {
+            "Publication Name": "S\u00fcddeutsche Zeitung",
+            "Website": "https://www.sueddeutsche.de"
+        }
+    ]
+}

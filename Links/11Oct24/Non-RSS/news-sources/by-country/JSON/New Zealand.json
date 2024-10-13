@@ -1,0 +1,40 @@
+{
+    "New Zealand News Websites": [
+        {
+            "Publication Name": "Dominion Post",
+            "Website": "https://www.stuff.co.nz/dominion-post"
+        },
+        {
+            "Publication Name": "Gisborne Herald",
+            "Website": "https://www.gisborneherald.co.nz"
+        },
+        {
+            "Publication Name": "New Zealand Herald",
+            "Website": "https://www.nzherald.co.nz"
+        },
+        {
+            "Publication Name": "Newshub",
+            "Website": "https://www.newshub.co.nz"
+        },
+        {
+            "Publication Name": "Newsroom",
+            "Website": "https://www.newsroom.co.nz"
+        },
+        {
+            "Publication Name": "NZ Herald",
+            "Website": "https://www.nzherald.co.nz"
+        },
+        {
+            "Publication Name": "Radio New Zealand",
+            "Website": "https://www.rnz.co.nz"
+        },
+        {
+            "Publication Name": "Scoop",
+            "Website": "https://www.scoop.co.nz"
+        },
+        {
+            "Publication Name": "Stuff",
+            "Website": "https://www.stuff.co.nz"
+        }
+    ]
+}

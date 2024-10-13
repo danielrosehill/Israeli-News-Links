@@ -1,0 +1,36 @@
+{
+    "Pakistan News Websites": [
+        {
+            "Publication Name": "Daily Express",
+            "Website": "https://www.express.com.pk"
+        },
+        {
+            "Publication Name": "Daily Times",
+            "Website": "https://www.dailytimes.com.pk"
+        },
+        {
+            "Publication Name": "Daily Times",
+            "Website": "https://dailytimes.com.pk"
+        },
+        {
+            "Publication Name": "Dawn",
+            "Website": "https://www.dawn.com"
+        },
+        {
+            "Publication Name": "Geo News",
+            "Website": "https://www.geo.tv"
+        },
+        {
+            "Publication Name": "Jang Newspaper",
+            "Website": "https://jang.com.pk"
+        },
+        {
+            "Publication Name": "Pakistan Today",
+            "Website": "https://www.pakistantoday.com.pk"
+        },
+        {
+            "Publication Name": "The Express Tribune",
+            "Website": "https://tribune.com.pk"
+        }
+    ]
+}

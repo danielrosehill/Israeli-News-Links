@@ -1,0 +1,24 @@
+{
+    "Thailand News Websites": [
+        {
+            "Publication Name": "Bangkok Biz News",
+            "Website": "https://www.bangkokbiznews.com"
+        },
+        {
+            "Publication Name": "Bangkok Business News",
+            "Website": "https://www.bangkokbiznews.com"
+        },
+        {
+            "Publication Name": "Bangkok Post",
+            "Website": "https://www.bangkokpost.com"
+        },
+        {
+            "Publication Name": "Coconuts Media",
+            "Website": "https://coconuts.co"
+        },
+        {
+            "Publication Name": "Pattaya Mail",
+            "Website": "https://www.pattayamail.com"
+        }
+    ]
+}

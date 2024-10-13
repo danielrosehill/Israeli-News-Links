@@ -1,0 +1,20 @@
+{
+    "Colombia News Websites": [
+        {
+            "Publication Name": "Caracol Radio",
+            "Website": "https://caracol.com.co"
+        },
+        {
+            "Publication Name": "El Espectador",
+            "Website": "https://www.elespectador.com"
+        },
+        {
+            "Publication Name": "El Tiempo",
+            "Website": "https://www.eltiempo.com"
+        },
+        {
+            "Publication Name": "Noticias Caracol",
+            "Website": "https://noticias.caracoltv.com"
+        }
+    ]
+}

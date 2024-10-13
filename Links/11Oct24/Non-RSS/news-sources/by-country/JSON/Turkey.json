@@ -1,0 +1,44 @@
+{
+    "Turkey News Websites": [
+        {
+            "Publication Name": "Anadolu Agency",
+            "Website": "https://www.aa.com.tr"
+        },
+        {
+            "Publication Name": "Bianet",
+            "Website": "https://www.bianet.org"
+        },
+        {
+            "Publication Name": "Bianet",
+            "Website": "https://bianet.org"
+        },
+        {
+            "Publication Name": "Daily Sabah",
+            "Website": "https://www.dailysabah.com"
+        },
+        {
+            "Publication Name": "Habert\u00fcrk",
+            "Website": "https://www.haberturk.com"
+        },
+        {
+            "Publication Name": "H\u00fcrriyet Daily News",
+            "Website": "https://www.hurriyetdailynews.com"
+        },
+        {
+            "Publication Name": "Hurriyet Daily News",
+            "Website": "https://www.hurriyetdailynews.com"
+        },
+        {
+            "Publication Name": "H\u00fcrriyet",
+            "Website": "https://www.hurriyetdailynews.com"
+        },
+        {
+            "Publication Name": "Milliyet",
+            "Website": "https://www.milliyet.com.tr"
+        },
+        {
+            "Publication Name": "TRT World",
+            "Website": "https://www.trtworld.com"
+        }
+    ]
+}

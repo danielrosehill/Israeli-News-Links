@@ -1,0 +1,24 @@
+{
+    "Ireland News Websites": [
+        {
+            "Publication Name": "Evening Echo",
+            "Website": "https://www.echolive.ie"
+        },
+        {
+            "Publication Name": "Irish Examiner",
+            "Website": "https://www.irishexaminer.com"
+        },
+        {
+            "Publication Name": "Irish Independent",
+            "Website": "https://www.independent.ie"
+        },
+        {
+            "Publication Name": "Irish Times",
+            "Website": "https://www.irishtimes.com"
+        },
+        {
+            "Publication Name": "The Irish Times",
+            "Website": "https://www.irishtimes.com"
+        }
+    ]
+}

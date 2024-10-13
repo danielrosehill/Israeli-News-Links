@@ -1,0 +1,12 @@
+{
+    "Sweden News Websites": [
+        {
+            "Publication Name": "Dagens Nyheter",
+            "Website": "https://www.dn.se"
+        },
+        {
+            "Publication Name": "Expressen",
+            "Website": "https://www.expressen.se"
+        }
+    ]
+}

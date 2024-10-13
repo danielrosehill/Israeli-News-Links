@@ -1,0 +1,40 @@
+{
+    "Egypt News Websites": [
+        {
+            "Publication Name": "Ahram Hebdo",
+            "Website": "https://hebdo.ahram.org.eg"
+        },
+        {
+            "Publication Name": "Ahram Online",
+            "Website": "https://english.ahram.org.eg"
+        },
+        {
+            "Publication Name": "Ahram Weekly",
+            "Website": "https://weekly.ahram.org.eg"
+        },
+        {
+            "Publication Name": "Al-Ahram",
+            "Website": "https://english.ahram.org.eg"
+        },
+        {
+            "Publication Name": "Al-Masry Al-Youm",
+            "Website": "https://www.almasryalyoum.com"
+        },
+        {
+            "Publication Name": "Al-Masry Al-Youm",
+            "Website": "https://www.egyptindependent.com"
+        },
+        {
+            "Publication Name": "Aswat Masriya",
+            "Website": "https://aswatmasriya.com"
+        },
+        {
+            "Publication Name": "Daily News",
+            "Website": "https://www.dailynewsegypt.com"
+        },
+        {
+            "Publication Name": "Egypt Independent",
+            "Website": "https://www.egyptindependent.com"
+        }
+    ]
+}

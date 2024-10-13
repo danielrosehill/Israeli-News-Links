@@ -1,0 +1,20 @@
+{
+    "Estonia News Websites": [
+        {
+            "Publication Name": "Baltic News Service",
+            "Website": "https://bns.ee"
+        },
+        {
+            "Publication Name": "Eesti P\u00e4evaleht",
+            "Website": "https://www.epl.delfi.ee"
+        },
+        {
+            "Publication Name": "Eesti Rahvusringh\u00e4\u00e4ling",
+            "Website": "https://news.err.ee"
+        },
+        {
+            "Publication Name": "Estonian Public Broadcasting",
+            "Website": "https://news.err.ee"
+        }
+    ]
+}

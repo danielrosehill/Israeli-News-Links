@@ -1,0 +1,16 @@
+{
+    "Morocco News Websites": [
+        {
+            "Publication Name": "Le Matin",
+            "Website": "https://lematin.ma"
+        },
+        {
+            "Publication Name": "Maroc Hebdo",
+            "Website": "https://maroc-hebdo.press.ma"
+        },
+        {
+            "Publication Name": "Morocco World News",
+            "Website": "https://www.moroccoworldnews.com"
+        }
+    ]
+}

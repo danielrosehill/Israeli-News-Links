@@ -1,0 +1,80 @@
+{
+    "Australia News Websites": [
+        {
+            "Publication Name": "7News",
+            "Website": "https://7news.com.au"
+        },
+        {
+            "Publication Name": "ABC Radio Australia",
+            "Website": "https://www.abc.net.au/radio-australia"
+        },
+        {
+            "Publication Name": "Adelaide Now",
+            "Website": "https://www.adelaidenow.com.au"
+        },
+        {
+            "Publication Name": "Australian Broadcasting Corporation (ABC)",
+            "Website": "https://www.abc.net.au"
+        },
+        {
+            "Publication Name": "Australian Financial Review",
+            "Website": "https://www.afr.com"
+        },
+        {
+            "Publication Name": "Australian News Channel",
+            "Website": "https://www.skynews.com.au"
+        },
+        {
+            "Publication Name": "Bendigo Advertiser",
+            "Website": "https://www.bendigoadvertiser.com.au"
+        },
+        {
+            "Publication Name": "Brisbane Times",
+            "Website": "https://www.brisbanetimes.com.au"
+        },
+        {
+            "Publication Name": "Canberra Times",
+            "Website": "https://www.canberratimes.com.au"
+        },
+        {
+            "Publication Name": "Farm Weekly",
+            "Website": "https://www.farmweekly.com.au"
+        },
+        {
+            "Publication Name": "Gippsland Times",
+            "Website": "https://www.gippslandtimes.com.au"
+        },
+        {
+            "Publication Name": "Herald Sun",
+            "Website": "https://www.heraldsun.com.au"
+        },
+        {
+            "Publication Name": "News.com.au",
+            "Website": "https://www.news.com.au"
+        },
+        {
+            "Publication Name": "Nine News",
+            "Website": "https://www.9news.com.au"
+        },
+        {
+            "Publication Name": "North Queensland Register",
+            "Website": "https://www.northqueenslandregister.com.au"
+        },
+        {
+            "Publication Name": "North West Star",
+            "Website": "https://www.northweststar.com.au"
+        },
+        {
+            "Publication Name": "Sydney Morning Herald",
+            "Website": "https://www.smh.com.au"
+        },
+        {
+            "Publication Name": "The Australian",
+            "Website": "https://www.theaustralian.com.au"
+        },
+        {
+            "Publication Name": "The Sydney Morning Herald",
+            "Website": "https://www.smh.com.au"
+        }
+    ]
+}

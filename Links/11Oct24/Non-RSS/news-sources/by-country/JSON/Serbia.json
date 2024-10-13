@@ -1,0 +1,20 @@
+{
+    "Serbia News Websites": [
+        {
+            "Publication Name": "B92",
+            "Website": "https://www.b92.net"
+        },
+        {
+            "Publication Name": "Balkan Insight",
+            "Website": "https://balkaninsight.com"
+        },
+        {
+            "Publication Name": "Blic",
+            "Website": "https://www.blic.rs"
+        },
+        {
+            "Publication Name": "Ekspres",
+            "Website": "https://www.ekspres.net"
+        }
+    ]
+}

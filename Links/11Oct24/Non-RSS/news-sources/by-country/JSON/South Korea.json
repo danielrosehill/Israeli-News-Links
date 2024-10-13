@@ -1,0 +1,24 @@
+{
+    "South Korea News Websites": [
+        {
+            "Publication Name": "Chosun Ilbo",
+            "Website": "https://english.chosun.com"
+        },
+        {
+            "Publication Name": "Hankyoreh",
+            "Website": "https://english.hani.co.kr"
+        },
+        {
+            "Publication Name": "KBS World",
+            "Website": "https://world.kbs.co.kr"
+        },
+        {
+            "Publication Name": "Korea Times",
+            "Website": "https://www.koreatimes.co.kr"
+        },
+        {
+            "Publication Name": "The Korea Herald",
+            "Website": "https://www.koreaherald.com"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Switzerland News Websites": [
+        {
+            "Publication Name": "Basler Zeitung",
+            "Website": "https://www.bazonline.ch"
+        },
+        {
+            "Publication Name": "Le Temps",
+            "Website": "https://www.letemps.ch"
+        },
+        {
+            "Publication Name": "Neue Z\u00fcrcher Zeitung (NZZ)",
+            "Website": "https://www.nzz.ch"
+        },
+        {
+            "Publication Name": "Swissinfo",
+            "Website": "https://www.swissinfo.ch"
+        }
+    ]
+}

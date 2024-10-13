@@ -1,0 +1,20 @@
+{
+    "Norway News Websites": [
+        {
+            "Publication Name": "Aftenposten",
+            "Website": "https://www.aftenposten.no"
+        },
+        {
+            "Publication Name": "Bergens Tidende",
+            "Website": "https://www.bt.no"
+        },
+        {
+            "Publication Name": "Dagbladet",
+            "Website": "https://www.dagbladet.no"
+        },
+        {
+            "Publication Name": "NRK",
+            "Website": "https://www.nrk.no"
+        }
+    ]
+}

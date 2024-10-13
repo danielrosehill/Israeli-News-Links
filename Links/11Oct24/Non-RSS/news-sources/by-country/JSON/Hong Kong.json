@@ -1,0 +1,20 @@
+{
+    "Hong Kong News Websites": [
+        {
+            "Publication Name": "Asia Sentinel",
+            "Website": "https://www.asiasentinel.com"
+        },
+        {
+            "Publication Name": "Asia Times",
+            "Website": "https://asiatimes.com"
+        },
+        {
+            "Publication Name": "Hong Kong Free Press",
+            "Website": "https://www.hongkongfp.com"
+        },
+        {
+            "Publication Name": "South China Morning Post",
+            "Website": "https://www.scmp.com"
+        }
+    ]
+}

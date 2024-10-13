@@ -1,0 +1,36 @@
+{
+    "Netherlands News Websites": [
+        {
+            "Publication Name": "AD (Algemeen Dagblad)",
+            "Website": "https://www.ad.nl"
+        },
+        {
+            "Publication Name": "Algemeen Dagblad",
+            "Website": "https://www.ad.nl"
+        },
+        {
+            "Publication Name": "De Telegraaf",
+            "Website": "https://www.telegraaf.nl"
+        },
+        {
+            "Publication Name": "Het Financieele Dagblad",
+            "Website": "https://fd.nl"
+        },
+        {
+            "Publication Name": "NRC Handelsblad",
+            "Website": "https://www.nrc.nl"
+        },
+        {
+            "Publication Name": "NRC",
+            "Website": "https://www.nrc.nl"
+        },
+        {
+            "Publication Name": "Trouw",
+            "Website": "https://www.trouw.nl"
+        },
+        {
+            "Publication Name": "Volkskrant",
+            "Website": "https://www.volkskrant.nl"
+        }
+    ]
+}

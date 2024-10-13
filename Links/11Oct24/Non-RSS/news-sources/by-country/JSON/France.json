@@ -1,0 +1,80 @@
+{
+    "France News Websites": [
+        {
+            "Publication Name": "Africa Intelligence",
+            "Website": "https://www.africaintelligence.com"
+        },
+        {
+            "Publication Name": "Agence France-Presse (AFP)",
+            "Website": "https://www.afp.com"
+        },
+        {
+            "Publication Name": "Capital",
+            "Website": "https://www.capital.fr"
+        },
+        {
+            "Publication Name": "CNEWS",
+            "Website": "https://www.cnews.fr"
+        },
+        {
+            "Publication Name": "Courrier International",
+            "Website": "https://www.courrierinternational.com"
+        },
+        {
+            "Publication Name": "Euronews",
+            "Website": "https://www.euronews.com"
+        },
+        {
+            "Publication Name": "EuroNews",
+            "Website": "https://www.euronews.com"
+        },
+        {
+            "Publication Name": "France 24",
+            "Website": "https://www.france24.com"
+        },
+        {
+            "Publication Name": "Franceinfo",
+            "Website": "https://www.francetvinfo.fr"
+        },
+        {
+            "Publication Name": "Jeune Afrique",
+            "Website": "https://www.jeuneafrique.com"
+        },
+        {
+            "Publication Name": "L'Express",
+            "Website": "https://www.lexpress.fr"
+        },
+        {
+            "Publication Name": "Le Figaro",
+            "Website": "https://www.lefigaro.fr"
+        },
+        {
+            "Publication Name": "Le Monde Afrique",
+            "Website": "https://www.lemonde.fr/afrique"
+        },
+        {
+            "Publication Name": "Le Monde Diplomatique",
+            "Website": "https://mondediplo.com"
+        },
+        {
+            "Publication Name": "Le Monde",
+            "Website": "https://www.lemonde.fr"
+        },
+        {
+            "Publication Name": "Les Echos",
+            "Website": "https://www.lesechos.fr"
+        },
+        {
+            "Publication Name": "Liberation",
+            "Website": "https://www.liberation.fr"
+        },
+        {
+            "Publication Name": "Lib\u00e9ration",
+            "Website": "https://www.liberation.fr"
+        },
+        {
+            "Publication Name": "RFI (Radio France Internationale)",
+            "Website": "https://www.rfi.fr/en"
+        }
+    ]
+}

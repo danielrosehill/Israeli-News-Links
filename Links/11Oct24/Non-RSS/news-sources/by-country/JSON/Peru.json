@@ -1,0 +1,24 @@
+{
+    "Peru News Websites": [
+        {
+            "Publication Name": "Correo",
+            "Website": "https://diariocorreo.pe"
+        },
+        {
+            "Publication Name": "El Comercio",
+            "Website": "https://elcomercio.pe"
+        },
+        {
+            "Publication Name": "La Republica",
+            "Website": "https://www.larepublica.pe"
+        },
+        {
+            "Publication Name": "La Rep\u00fablica",
+            "Website": "https://www.larepublica.pe"
+        },
+        {
+            "Publication Name": "RPP Noticias",
+            "Website": "https://rpp.pe"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Portugal News Websites": [
+        {
+            "Publication Name": "A Bola",
+            "Website": "https://www.abola.pt"
+        },
+        {
+            "Publication Name": "Di\u00e1rio de Not\u00edcias",
+            "Website": "https://www.dn.pt"
+        },
+        {
+            "Publication Name": "Diario de Noticias",
+            "Website": "https://www.dn.pt"
+        },
+        {
+            "Publication Name": "Di\u00e1rio Econ\u00f3mico",
+            "Website": "https://www.jornaleconomico.pt"
+        },
+        {
+            "Publication Name": "F\u00f3rum News",
+            "Website": "https://www.forum.pt"
+        },
+        {
+            "Publication Name": "Jornal de Not\u00edcias",
+            "Website": "https://www.jn.pt"
+        }
+    ]
+}

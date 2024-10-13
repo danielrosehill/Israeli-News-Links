@@ -1,0 +1,40 @@
+{
+    "Ghana News Websites": [
+        {
+            "Publication Name": "Business Ghana",
+            "Website": "https://www.businessghana.com"
+        },
+        {
+            "Publication Name": "Daily Graphic",
+            "Website": "https://www.graphic.com.gh"
+        },
+        {
+            "Publication Name": "Daily Guide",
+            "Website": "https://dailyguideafrica.com"
+        },
+        {
+            "Publication Name": "Daily Guide",
+            "Website": "https://www.dailyguideafrica.com"
+        },
+        {
+            "Publication Name": "Ghanaian Times",
+            "Website": "https://www.ghanaiantimes.com.gh"
+        },
+        {
+            "Publication Name": "GhanaWeb",
+            "Website": "https://www.ghanaweb.com"
+        },
+        {
+            "Publication Name": "Modern Ghana",
+            "Website": "https://www.modernghana.com"
+        },
+        {
+            "Publication Name": "Myjoyonline",
+            "Website": "https://www.myjoyonline.com"
+        },
+        {
+            "Publication Name": "News Ghana",
+            "Website": "https://newsghana.com.gh"
+        }
+    ]
+}

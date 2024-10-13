@@ -1,0 +1,24 @@
+{
+    "Malaysia News Websites": [
+        {
+            "Publication Name": "Business Times",
+            "Website": "https://www.businesstimes.com.sg"
+        },
+        {
+            "Publication Name": "Free Malaysia Today",
+            "Website": "https://www.freemalaysiatoday.com"
+        },
+        {
+            "Publication Name": "Harian Metro",
+            "Website": "https://www.hmetro.com.my"
+        },
+        {
+            "Publication Name": "Malay Mail",
+            "Website": "https://www.malaymail.com"
+        },
+        {
+            "Publication Name": "New Straits Times",
+            "Website": "https://www.nst.com.my"
+        }
+    ]
+}

@@ -1,12 +1,12 @@
 Publication_Name,Country,Website,Google_Search,Isr_Cov_Actual
 7News,Australia,https://7news.com.au,https://www.google.com/search?q=site:https://7news.com.au+Israel,
-ABC Radio Australia,Australia,https://www.abc.net.au/radio-australia,https://www.google.com/search?q=site:https://www.abc.net.au/radio-australia+Israel,
-Adelaide Now,Australia,https://www.adelaidenow.com.au,https://www.google.com/search?q=site:https://www.adelaidenow.com.au+Israel,
-Australian Broadcasting Corporation (ABC),Australia,https://www.abc.net.au,https://www.google.com/search?q=site:https://www.abc.net.au+Israel,
-Australian Financial Review,Australia,https://www.afr.com,https://www.google.com/search?q=site:https://www.afr.com+Israel,
+ABC Radio Australia,Australia,https://www.abc.net.au/radio-australia,https://www.google.com/search?q=site:https://www.abc.net.au/radio-australia+Israel,https://www.abc.net.au/news/topic/israel
+Adelaide Now,Australia,https://www.adelaidenow.com.au,https://www.google.com/search?q=site:https://www.adelaidenow.com.au+Israel,https://www.adelaidenow.com.au/topics/israel-conflict
+Australian Broadcasting Corporation (ABC),Australia,https://www.abc.net.au,https://www.google.com/search?q=site:https://www.abc.net.au+Israel,https://www.abc.net.au/news/topic/israel
+Australian Financial Review,Australia,https://www.afr.com,https://www.google.com/search?q=site:https://www.afr.com+Israel,https://www.afr.com/topic/israel-azy
 Australian News Channel,Australia,https://www.skynews.com.au,https://www.google.com/search?q=site:https://www.skynews.com.au+Israel,
 Bendigo Advertiser,Australia,https://www.bendigoadvertiser.com.au,https://www.google.com/search?q=site:https://www.bendigoadvertiser.com.au+Israel,
-Brisbane Times,Australia,https://www.brisbanetimes.com.au,https://www.google.com/search?q=site:https://www.brisbanetimes.com.au+Israel,
+Brisbane Times,Australia,https://www.brisbanetimes.com.au,https://www.google.com/search?q=site:https://www.brisbanetimes.com.au+Israel,https://www.brisbanetimes.com.au/topic/israel-azy
 Canberra Times,Australia,https://www.canberratimes.com.au,https://www.google.com/search?q=site:https://www.canberratimes.com.au+Israel,
 Farm Weekly,Australia,https://www.farmweekly.com.au,https://www.google.com/search?q=site:https://www.farmweekly.com.au+Israel,
 Gippsland Times,Australia,https://www.gippslandtimes.com.au,https://www.google.com/search?q=site:https://www.gippslandtimes.com.au+Israel,
@@ -17,4 +17,4 @@ North Queensland Register,Australia,https://www.northqueenslandregister.com.au,h
 North West Star,Australia,https://www.northweststar.com.au,https://www.google.com/search?q=site:https://www.northweststar.com.au+Israel,
 Sydney Morning Herald,Australia,https://www.smh.com.au,https://www.google.com/search?q=site:https://www.smh.com.au+Israel,
 The Australian,Australia,https://www.theaustralian.com.au,https://www.google.com/search?q=site:https://www.theaustralian.com.au+Israel,
-The Sydney Morning Herald,Australia,https://www.smh.com.au,https://www.google.com/search?q=site:https://www.smh.com.au+Israel,
+The Sydney Morning Herald,Australia,https://www.smh.com.au,https://www.google.com/search?q=site:https://www.smh.com.au+Israel,https://www.smh.com.au/topic/israel-azy

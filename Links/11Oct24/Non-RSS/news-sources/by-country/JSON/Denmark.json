@@ -1,0 +1,28 @@
+{
+    "Denmark News Websites": [
+        {
+            "Publication Name": "Berlingske",
+            "Website": "https://www.berlingske.dk"
+        },
+        {
+            "Publication Name": "Dagbladet Information",
+            "Website": "https://www.information.dk"
+        },
+        {
+            "Publication Name": "Ekstra Bladet",
+            "Website": "https://www.ekstrabladet.dk"
+        },
+        {
+            "Publication Name": "Ekstra Bladet",
+            "Website": "https://ekstrabladet.dk"
+        },
+        {
+            "Publication Name": "Politiken",
+            "Website": "https://politiken.dk"
+        },
+        {
+            "Publication Name": "Ritzau",
+            "Website": "https://ritzau.dk"
+        }
+    ]
+}

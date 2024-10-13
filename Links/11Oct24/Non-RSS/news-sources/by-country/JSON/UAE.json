@@ -1,0 +1,44 @@
+{
+    "UAE News Websites": [
+        {
+            "Publication Name": "Al Ain News",
+            "Website": "https://al-ain.com"
+        },
+        {
+            "Publication Name": "Al-Khaleej",
+            "Website": "https://www.alkhaleej.ae"
+        },
+        {
+            "Publication Name": "Albayan",
+            "Website": "https://www.albayan.ae"
+        },
+        {
+            "Publication Name": "Arabian Business",
+            "Website": "https://www.arabianbusiness.com"
+        },
+        {
+            "Publication Name": "Emarat Al Youm",
+            "Website": "https://www.emaratalyoum.com"
+        },
+        {
+            "Publication Name": "Gulf News",
+            "Website": "https://www.gulfnews.com"
+        },
+        {
+            "Publication Name": "Gulf News",
+            "Website": "https://gulfnews.com"
+        },
+        {
+            "Publication Name": "Gulf Today",
+            "Website": "https://www.gulftoday.ae"
+        },
+        {
+            "Publication Name": "Khaleej Times",
+            "Website": "https://www.khaleejtimes.com"
+        },
+        {
+            "Publication Name": "The National",
+            "Website": "https://www.thenationalnews.com"
+        }
+    ]
+}

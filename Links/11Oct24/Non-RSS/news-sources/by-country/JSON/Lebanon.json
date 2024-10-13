@@ -1,0 +1,20 @@
+{
+    "Lebanon News Websites": [
+        {
+            "Publication Name": "An Nahar",
+            "Website": "https://www.annahar.com"
+        },
+        {
+            "Publication Name": "Daily Star",
+            "Website": "https://www.dailystar.com.lb"
+        },
+        {
+            "Publication Name": "L'Orient-Le Jour",
+            "Website": "https://www.lorientlejour.com"
+        },
+        {
+            "Publication Name": "LBCI News",
+            "Website": "https://www.lbcgroup.tv"
+        }
+    ]
+}

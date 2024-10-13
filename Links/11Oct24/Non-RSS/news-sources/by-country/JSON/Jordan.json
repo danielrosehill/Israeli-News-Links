@@ -1,0 +1,20 @@
+{
+    "Jordan News Websites": [
+        {
+            "Publication Name": "Al Bawaba",
+            "Website": "https://www.albawaba.com"
+        },
+        {
+            "Publication Name": "Ammon News",
+            "Website": "https://en.ammonnews.net"
+        },
+        {
+            "Publication Name": "Jordan News",
+            "Website": "https://www.jordannews.jo"
+        },
+        {
+            "Publication Name": "Jordan Times",
+            "Website": "https://www.jordantimes.com"
+        }
+    ]
+}

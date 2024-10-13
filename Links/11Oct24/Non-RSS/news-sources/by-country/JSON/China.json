@@ -1,0 +1,56 @@
+{
+    "China News Websites": [
+        {
+            "Publication Name": "Beijing Review",
+            "Website": "https://www.bjreview.com.cn"
+        },
+        {
+            "Publication Name": "Beijing Review",
+            "Website": "https://www.bjreview.com"
+        },
+        {
+            "Publication Name": "CCTV News",
+            "Website": "https://english.cctv.com"
+        },
+        {
+            "Publication Name": "China Daily",
+            "Website": "https://www.chinadaily.com.cn"
+        },
+        {
+            "Publication Name": "China Economic Net",
+            "Website": "https://en.ce.cn"
+        },
+        {
+            "Publication Name": "China Global Television Network (CGTN)",
+            "Website": "https://www.cgtn.com"
+        },
+        {
+            "Publication Name": "China.org.cn",
+            "Website": "https://www.china.org.cn"
+        },
+        {
+            "Publication Name": "Far Eastern Economic Review",
+            "Website": "https://www.feer.com"
+        },
+        {
+            "Publication Name": "Guangming Daily",
+            "Website": "https://en.gmw.cn"
+        },
+        {
+            "Publication Name": "People's Daily",
+            "Website": "https://en.people.cn"
+        },
+        {
+            "Publication Name": "Sina News",
+            "Website": "https://english.sina.com"
+        },
+        {
+            "Publication Name": "Xinhua News Agency",
+            "Website": "https://www.xinhuanet.com"
+        },
+        {
+            "Publication Name": "Xinhua News",
+            "Website": "https://www.xinhuanet.com"
+        }
+    ]
+}

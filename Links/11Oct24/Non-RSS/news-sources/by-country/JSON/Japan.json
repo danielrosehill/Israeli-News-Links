@@ -1,0 +1,32 @@
+{
+    "Japan News Websites": [
+        {
+            "Publication Name": "Japan News",
+            "Website": "https://the-japan-news.com"
+        },
+        {
+            "Publication Name": "Japan Times",
+            "Website": "https://www.japantimes.co.jp"
+        },
+        {
+            "Publication Name": "Jiji Press",
+            "Website": "https://www.jiji.com"
+        },
+        {
+            "Publication Name": "Kyodo News",
+            "Website": "https://english.kyodonews.net"
+        },
+        {
+            "Publication Name": "NHK News",
+            "Website": "https://www3.nhk.or.jp/nhkworld/en"
+        },
+        {
+            "Publication Name": "Nikkei Asia",
+            "Website": "https://asia.nikkei.com"
+        },
+        {
+            "Publication Name": "The Asahi Shimbun",
+            "Website": "https://www.asahi.com"
+        }
+    ]
+}

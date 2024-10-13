@@ -1,0 +1,16 @@
+{
+    "Finland News Websites": [
+        {
+            "Publication Name": "Helsingin Sanomat",
+            "Website": "https://www.hs.fi"
+        },
+        {
+            "Publication Name": "Helsinki Times",
+            "Website": "https://www.helsinkitimes.fi"
+        },
+        {
+            "Publication Name": "Ilta-Sanomat",
+            "Website": "https://www.is.fi"
+        }
+    ]
+}

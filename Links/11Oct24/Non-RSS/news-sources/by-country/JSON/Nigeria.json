@@ -1,0 +1,44 @@
+{
+    "Nigeria News Websites": [
+        {
+            "Publication Name": "Business Day",
+            "Website": "https://businessday.ng"
+        },
+        {
+            "Publication Name": "Daily Post",
+            "Website": "https://dailypost.ng"
+        },
+        {
+            "Publication Name": "Daily Times",
+            "Website": "https://www.dailytimes.ng"
+        },
+        {
+            "Publication Name": "Daily Trust",
+            "Website": "https://dailytrust.com"
+        },
+        {
+            "Publication Name": "Global Times",
+            "Website": "https://globaltimesng.com"
+        },
+        {
+            "Publication Name": "Mirror",
+            "Website": "https://www.mirrorng.com"
+        },
+        {
+            "Publication Name": "Naija News",
+            "Website": "https://www.naijanews.com"
+        },
+        {
+            "Publication Name": "Nigerian Tribune",
+            "Website": "https://tribuneonlineng.com"
+        },
+        {
+            "Publication Name": "Pulse Nigeria",
+            "Website": "https://www.pulse.ng"
+        },
+        {
+            "Publication Name": "Vanguard",
+            "Website": "https://www.vanguardngr.com"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Russia News Websites": [
+        {
+            "Publication Name": "Ekonomika i Biznes",
+            "Website": "https://www.eibnet.ru"
+        },
+        {
+            "Publication Name": "Interfax",
+            "Website": "https://www.interfax.com"
+        },
+        {
+            "Publication Name": "Kommersant",
+            "Website": "https://www.kommersant.ru"
+        },
+        {
+            "Publication Name": "Lenta.ru",
+            "Website": "https://lenta.ru"
+        },
+        {
+            "Publication Name": "Moscow Times",
+            "Website": "https://www.themoscowtimes.com"
+        },
+        {
+            "Publication Name": "Novaya Gazeta",
+            "Website": "https://novayagazeta.ru"
+        },
+        {
+            "Publication Name": "RBC",
+            "Website": "https://www.rbc.ru"
+        },
+        {
+            "Publication Name": "RT (Russia Today)",
+            "Website": "https://www.rt.com"
+        },
+        {
+            "Publication Name": "RT",
+            "Website": "https://www.rt.com"
+        },
+        {
+            "Publication Name": "Tass",
+            "Website": "https://tass.com"
+        },
+        {
+            "Publication Name": "The Moscow Times",
+            "Website": "https://www.themoscowtimes.com"
+        }
+    ]
+}

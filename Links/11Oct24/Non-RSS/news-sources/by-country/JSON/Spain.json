@@ -1,0 +1,28 @@
+{
+    "Spain News Websites": [
+        {
+            "Publication Name": "El Correo",
+            "Website": "https://www.elcorreo.com"
+        },
+        {
+            "Publication Name": "El Mundo",
+            "Website": "https://www.elmundo.es"
+        },
+        {
+            "Publication Name": "El Pa\u00eds",
+            "Website": "https://elpais.com"
+        },
+        {
+            "Publication Name": "El Pa\u00eds",
+            "Website": "https://www.elpais.com"
+        },
+        {
+            "Publication Name": "La Vanguardia",
+            "Website": "https://www.lavanguardia.com"
+        },
+        {
+            "Publication Name": "Peri\u00f3dico",
+            "Website": "https://www.elperiodico.com"
+        }
+    ]
+}

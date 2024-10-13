@@ -1,0 +1,44 @@
+{
+    "Israel News Websites": [
+        {
+            "Publication Name": "Calcalist",
+            "Website": "https://www.calcalist.co.il"
+        },
+        {
+            "Publication Name": "Haaretz",
+            "Website": "https://www.haaretz.com"
+        },
+        {
+            "Publication Name": "Israel Business News",
+            "Website": "https://www.globes.co.il"
+        },
+        {
+            "Publication Name": "Israel Hayom",
+            "Website": "https://www.israelhayom.com"
+        },
+        {
+            "Publication Name": "Israel National News",
+            "Website": "https://www.israelnationalnews.com"
+        },
+        {
+            "Publication Name": "Jerusalem Post",
+            "Website": "https://www.jpost.com"
+        },
+        {
+            "Publication Name": "The Jerusalem Post",
+            "Website": "https://www.jpost.com"
+        },
+        {
+            "Publication Name": "The Times of Israel",
+            "Website": "https://www.timesofisrael.com"
+        },
+        {
+            "Publication Name": "Ynet",
+            "Website": "https://www.ynetnews.com"
+        },
+        {
+            "Publication Name": "Ynetnews",
+            "Website": "https://www.ynetnews.com"
+        }
+    ]
+}

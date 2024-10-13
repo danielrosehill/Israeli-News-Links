@@ -1,0 +1,248 @@
+{
+    "USA News Websites": [
+        {
+            "Publication Name": "ABC News",
+            "Website": "https://abcnews.go.com"
+        },
+        {
+            "Publication Name": "Al-Monitor",
+            "Website": "https://www.al-monitor.com"
+        },
+        {
+            "Publication Name": "Associated Press (AP)",
+            "Website": "https://apnews.com"
+        },
+        {
+            "Publication Name": "Atlanta Journal-Constitution",
+            "Website": "https://www.ajc.com"
+        },
+        {
+            "Publication Name": "Axios",
+            "Website": "https://www.axios.com"
+        },
+        {
+            "Publication Name": "Barron's",
+            "Website": "https://www.barrons.com"
+        },
+        {
+            "Publication Name": "Bay Area News Group",
+            "Website": "https://www.bayareanewsgroup.com"
+        },
+        {
+            "Publication Name": "Bay Area Reporter",
+            "Website": "https://www.ebar.com"
+        },
+        {
+            "Publication Name": "Black Star News",
+            "Website": "https://www.blackstarnews.com"
+        },
+        {
+            "Publication Name": "Bloomberg",
+            "Website": "https://www.bloomberg.com"
+        },
+        {
+            "Publication Name": "Boston Globe",
+            "Website": "https://www.bostonglobe.com"
+        },
+        {
+            "Publication Name": "Business Insider",
+            "Website": "https://www.businessinsider.com"
+        },
+        {
+            "Publication Name": "Catholic News Service",
+            "Website": "https://www.catholicnews.com"
+        },
+        {
+            "Publication Name": "Chicago Reader",
+            "Website": "https://www.chicagoreader.com"
+        },
+        {
+            "Publication Name": "Chicago Sun-Times",
+            "Website": "https://www.suntimes.com"
+        },
+        {
+            "Publication Name": "Chicago Tribune",
+            "Website": "https://www.chicagotribune.com"
+        },
+        {
+            "Publication Name": "Clarion Ledger",
+            "Website": "https://www.clarionledger.com"
+        },
+        {
+            "Publication Name": "Cleveland Plain Dealer",
+            "Website": "https://www.cleveland.com"
+        },
+        {
+            "Publication Name": "CNBC",
+            "Website": "https://www.cnbc.com"
+        },
+        {
+            "Publication Name": "CNN International",
+            "Website": "https://edition.cnn.com"
+        },
+        {
+            "Publication Name": "CNN",
+            "Website": "https://www.cnn.com"
+        },
+        {
+            "Publication Name": "Defence News",
+            "Website": "https://www.defensenews.com"
+        },
+        {
+            "Publication Name": "Democracy Now!",
+            "Website": "https://www.democracynow.org"
+        },
+        {
+            "Publication Name": "El Nuevo Herald",
+            "Website": "https://www.elnuevoherald.com"
+        },
+        {
+            "Publication Name": "Epoch Times",
+            "Website": "https://www.theepochtimes.com"
+        },
+        {
+            "Publication Name": "Federal News Network",
+            "Website": "https://federalnewsnetwork.com"
+        },
+        {
+            "Publication Name": "Forbes",
+            "Website": "https://www.forbes.com"
+        },
+        {
+            "Publication Name": "Fortune",
+            "Website": "https://www.fortune.com"
+        },
+        {
+            "Publication Name": "Fox News",
+            "Website": "https://www.foxnews.com"
+        },
+        {
+            "Publication Name": "Fremont Tribune",
+            "Website": "https://www.fremonttribune.com"
+        },
+        {
+            "Publication Name": "GlobalPost",
+            "Website": "https://theworld.org/sections/globalpost"
+        },
+        {
+            "Publication Name": "Hawaii News Now",
+            "Website": "https://www.hawaiinewsnow.com"
+        },
+        {
+            "Publication Name": "Hawaii Tribune-Herald",
+            "Website": "https://www.hawaiitribune-herald.com"
+        },
+        {
+            "Publication Name": "Houston Chronicle",
+            "Website": "https://www.houstonchronicle.com"
+        },
+        {
+            "Publication Name": "Indian Country Today",
+            "Website": "https://indiancountrytoday.com"
+        },
+        {
+            "Publication Name": "Indianapolis Recorder",
+            "Website": "https://indianapolisrecorder.com"
+        },
+        {
+            "Publication Name": "Indianapolis Star",
+            "Website": "https://www.indystar.com"
+        },
+        {
+            "Publication Name": "Liberation News",
+            "Website": "https://www.liberationnews.org"
+        },
+        {
+            "Publication Name": "Los Angeles Times",
+            "Website": "https://www.latimes.com"
+        },
+        {
+            "Publication Name": "MarketWatch",
+            "Website": "https://www.marketwatch.com"
+        },
+        {
+            "Publication Name": "Miami Herald",
+            "Website": "https://www.miamiherald.com"
+        },
+        {
+            "Publication Name": "Miami Times",
+            "Website": "https://www.miamitimesonline.com"
+        },
+        {
+            "Publication Name": "Mint Press News",
+            "Website": "https://www.mintpressnews.com"
+        },
+        {
+            "Publication Name": "Nasdaq",
+            "Website": "https://www.nasdaq.com"
+        },
+        {
+            "Publication Name": "National Public Radio (NPR)",
+            "Website": "https://www.npr.org"
+        },
+        {
+            "Publication Name": "NBC News",
+            "Website": "https://www.nbcnews.com"
+        },
+        {
+            "Publication Name": "New York Post",
+            "Website": "https://nypost.com"
+        },
+        {
+            "Publication Name": "New York Times",
+            "Website": "https://www.nytimes.com"
+        },
+        {
+            "Publication Name": "News Tribune",
+            "Website": "https://www.newstribune.com"
+        },
+        {
+            "Publication Name": "Newsday",
+            "Website": "https://www.newsday.com"
+        },
+        {
+            "Publication Name": "Norman Transcript",
+            "Website": "https://www.normantranscript.com"
+        },
+        {
+            "Publication Name": "Politico",
+            "Website": "https://www.politico.com"
+        },
+        {
+            "Publication Name": "Radio Free Asia",
+            "Website": "https://www.rfa.org"
+        },
+        {
+            "Publication Name": "RFE/RL",
+            "Website": "https://www.rferl.org"
+        },
+        {
+            "Publication Name": "Salt Lake Tribune",
+            "Website": "https://www.sltrib.com"
+        },
+        {
+            "Publication Name": "Stratfor",
+            "Website": "https://www.stratfor.com"
+        },
+        {
+            "Publication Name": "The New York Times",
+            "Website": "https://www.nytimes.com"
+        },
+        {
+            "Publication Name": "The Wall Street Journal",
+            "Website": "https://www.wsj.com"
+        },
+        {
+            "Publication Name": "The Washington Post",
+            "Website": "https://www.washingtonpost.com"
+        },
+        {
+            "Publication Name": "USA Today",
+            "Website": "https://www.usatoday.com"
+        },
+        {
+            "Publication Name": "Washington Post",
+            "Website": "https://www.washingtonpost.com"
+        }
+    ]
+}

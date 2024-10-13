@@ -1,0 +1,28 @@
+{
+    "Singapore News Websites": [
+        {
+            "Publication Name": "Asia News Network",
+            "Website": "https://www.asianews.network"
+        },
+        {
+            "Publication Name": "AsiaOne",
+            "Website": "https://www.asiaone.com"
+        },
+        {
+            "Publication Name": "Channel NewsAsia (CNA)",
+            "Website": "https://www.channelnewsasia.com"
+        },
+        {
+            "Publication Name": "CNA",
+            "Website": "https://www.channelnewsasia.com"
+        },
+        {
+            "Publication Name": "The Business Times",
+            "Website": "https://www.businesstimes.com.sg"
+        },
+        {
+            "Publication Name": "The Straits Times",
+            "Website": "https://www.straitstimes.com"
+        }
+    ]
+}
