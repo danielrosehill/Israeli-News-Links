@@ -1,0 +1,28 @@
+{
+    "Kenya News Websites": [
+        {
+            "Publication Name": "Daily Nation",
+            "Website": "https://www.nation.co.ke"
+        },
+        {
+            "Publication Name": "Daily Nation",
+            "Website": "https://www.nation.africa"
+        },
+        {
+            "Publication Name": "Nairobi Star",
+            "Website": "https://www.the-star.co.ke"
+        },
+        {
+            "Publication Name": "Standard",
+            "Website": "https://www.standardmedia.co.ke"
+        },
+        {
+            "Publication Name": "The Nation",
+            "Website": "https://www.nation.co.ke"
+        },
+        {
+            "Publication Name": "The Standard",
+            "Website": "https://www.standardmedia.co.ke"
+        }
+    ]
+}

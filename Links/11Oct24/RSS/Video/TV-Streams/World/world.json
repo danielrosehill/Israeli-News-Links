@@ -1,0 +1,33 @@
+{
+    "world_tv": [
+      {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/live"
+      },
+      {
+        "name": "Russia Today",
+        "url": "https://www.rt.com/on-air/"
+      },
+      {
+        "name": "TRT World",
+        "url": "https://www.trtworld.com/live-stream"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/live"
+      },
+      {
+        "name": "CGTN",
+        "url": "https://www.cgtn.com/tv"
+      },
+      {
+        "name": "CBS",
+        "url": "https://www.cbsnews.com/live/"
+      },
+      {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/Live"
+      }
+    ]
+  }
+  

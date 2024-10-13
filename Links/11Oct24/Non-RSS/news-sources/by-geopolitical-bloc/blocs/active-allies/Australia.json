@@ -1,0 +1,86 @@
+{
+    "Australia News Websites": [
+        {
+            "Publication Name": "7News",
+            "Website": "https://7news.com.au",
+            "Israel News": "https://7news.com.au/news/israel"
+        },
+        {
+            "Publication Name": "ABC Radio Australia",
+            "Website": "https://www.abc.net.au/radio-australia",
+            "Israel News": "https://www.abc.net.au/news/topic/israel"
+        },
+        {
+            "Publication Name": "Adelaide Now",
+            "Website": "https://www.adelaidenow.com.au",
+            "Israel News": "https://www.adelaidenow.com.au/topics/israel-conflict"
+        },
+        {
+            "Publication Name": "Australian Broadcasting Corporation (ABC)",
+            "Website": "https://www.abc.net.au"
+        },
+        {
+            "Publication Name": "Australian Financial Review",
+            "Website": "https://www.afr.com",
+            "Israel News": "https://www.afr.com/topic/israel-azy"
+        },
+        {
+            "Publication Name": "Australian News Channel",
+            "Website": "https://www.skynews.com.au"
+        },
+        {
+            "Publication Name": "Bendigo Advertiser",
+            "Website": "https://www.bendigoadvertiser.com.au"
+        },
+        {
+            "Publication Name": "Brisbane Times",
+            "Website": "https://www.brisbanetimes.com.au",
+            "Israel News": "https://www.brisbanetimes.com.au/topic/israel-azy",
+            "Main RSS": "https://www.brisbanetimes.com.au/rss/feed.xml",
+            "World News RSS": "https://www.brisbanetimes.com.au/rss/world.xml"
+        },
+        {
+            "Publication Name": "Canberra Times",
+            "Website": "https://www.canberratimes.com.au"
+        },
+        {
+            "Publication Name": "Farm Weekly",
+            "Website": "https://www.farmweekly.com.au"
+        },
+        {
+            "Publication Name": "Gippsland Times",
+            "Website": "https://www.gippslandtimes.com.au"
+        },
+        {
+            "Publication Name": "Herald Sun",
+            "Website": "https://www.heraldsun.com.au",
+            "Israel News": "https://www.heraldsun.com.au/topics/israel-conflict"
+        },
+        {
+            "Publication Name": "News.com.au",
+            "Website": "https://www.news.com.au",
+            "Israel News": "https://www.news.com.au/world/middle-east"
+        },
+        {
+            "Publication Name": "Nine News",
+            "Website": "https://www.9news.com.au"
+        },
+        {
+            "Publication Name": "North Queensland Register",
+            "Website": "https://www.northqueenslandregister.com.au"
+        },
+        {
+            "Publication Name": "North West Star",
+            "Website": "https://www.northweststar.com.au"
+        },
+        {
+            "Publication Name": "Sydney Morning Herald",
+            "Website": "https://www.smh.com.au"
+        },
+        {
+            "Publication Name": "The Australian",
+            "Website": "https://www.theaustralian.com.au",
+            "Israel News": "https://www.theaustralian.com.au/topics/israel"
+        }
+    ]
+}

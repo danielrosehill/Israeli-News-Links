@@ -1,0 +1,64 @@
+{
+    "Canada News Websites": [
+        {
+            "Publication Name": "Black Press",
+            "Website": "https://www.blackpress.ca"
+        },
+        {
+            "Publication Name": "CBC News",
+            "Website": "https://www.cbc.ca",
+            "Israel News": "https://www.cbc.ca/news/topic/Tag/Israel"
+        },
+        {
+            "Publication Name": "CTV News",
+            "Website": "https://www.ctvnews.ca",
+            "Israel News": "https://www.ctvnews.ca/world/israel-hamas-war"
+        },
+        {
+            "Publication Name": "Digital Journal",
+            "Website": "https://www.digitaljournal.com"
+        },
+        {
+            "Publication Name": "Financial Post",
+            "Website": "https://financialpost.com"
+        },
+        {
+            "Publication Name": "Globe and Mail",
+            "Website": "https://www.theglobeandmail.com",
+            "Israel News": "https://www.theglobeandmail.com/topics/israel/"
+        },
+        {
+            "Publication Name": "Gorilla Radio",
+            "Website": "https://www.gorillaradioblog.com"
+        },
+        {
+            "Publication Name": "La Presse",
+            "Website": "https://www.lapresse.ca"
+        },
+        {
+            "Publication Name": "Lapresse Canada",
+            "Website": "https://www.lapresse.ca"
+        },
+        {
+            "Publication Name": "Le Devoir",
+            "Website": "https://www.ledevoir.com"
+        },
+        {
+            "Publication Name": "Metro News",
+            "Website": "https://www.metronews.ca"
+        },
+        {
+            "Publication Name": "National Post",
+            "Website": "https://www.nationalpost.com"
+        },
+        {
+            "Publication Name": "NewspaperDirect",
+            "Website": "https://www.newspaperdirect.com"
+        },
+        {
+            "Publication Name": "Toronto Star",
+            "Website": "https://www.thestar.com",
+            "Israel News": "https://www.thestar.com/news/world/israel-hamas/"
+        }
+    ]
+}

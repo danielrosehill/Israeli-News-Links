@@ -1,0 +1,48 @@
+[
+    {
+      "Title": "Active Allies",
+      "Description": "Countries that actively support Israel both politically and economically, maintaining a friendly diplomatic relationship.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "United States of America",
+          "ISO 3166 A-2": "US"
+        },
+        {
+          "Country Name ISO 3166": "United Kingdom",
+          "ISO 3166 A-2": "GB"
+        },
+        {
+          "Country Name ISO 3166": "Germany",
+          "ISO 3166 A-2": "DE"
+        },
+        {
+          "Country Name ISO 3166": "Australia",
+          "ISO 3166 A-2": "AU"
+        },
+        {
+          "Country Name ISO 3166": "Canada",
+          "ISO 3166 A-2": "CA"
+        },
+        {
+          "Country Name ISO 3166": "Italy",
+          "ISO 3166 A-2": "IT"
+        },
+        {
+          "Country Name ISO 3166": "Netherlands",
+          "ISO 3166 A-2": "NL"
+        },
+        {
+          "Country Name ISO 3166": "Czech Republic",
+          "ISO 3166 A-2": "CZ"
+        },
+        {
+          "Country Name ISO 3166": "Hungary",
+          "ISO 3166 A-2": "HU"
+        },
+        {
+          "Country Name ISO 3166": "Poland",
+          "ISO 3166 A-2": "PL"
+        }
+      ]
+    }
+  ]

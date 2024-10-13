@@ -1,0 +1,32 @@
+{
+    "Argentina News Websites": [
+        {
+            "Publication Name": "Buenos Aires Herald",
+            "Website": "https://buenosairesherald.com"
+        },
+        {
+            "Publication Name": "Clar\u00edn",
+            "Website": "https://www.clarin.com"
+        },
+        {
+            "Publication Name": "Infobae America",
+            "Website": "https://www.infobae.com/america"
+        },
+        {
+            "Publication Name": "La Capital",
+            "Website": "https://www.lacapital.com.ar"
+        },
+        {
+            "Publication Name": "La Gaceta",
+            "Website": "https://www.lagaceta.com.ar"
+        },
+        {
+            "Publication Name": "La Naci\u00f3n",
+            "Website": "https://www.lanacion.com.ar"
+        },
+        {
+            "Publication Name": "La Nueva Provincia",
+            "Website": "https://www.lanueva.com"
+        }
+    ]
+}

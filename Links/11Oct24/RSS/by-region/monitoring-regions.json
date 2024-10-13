@@ -1,0 +1,187 @@
+{
+    "Geopolitical_Divisions": {
+      "North_America": {
+        "Countries": [
+          "United States",
+          "Canada",
+          "Mexico"
+        ]
+      },
+      "Latin_America": {
+        "Countries": [
+          "Brazil",
+          "Argentina",
+          "Chile",
+          "Colombia",
+          "Venezuela",
+          "Peru",
+          "Ecuador",
+          "Bolivia",
+          "Paraguay",
+          "Uruguay"
+        ]
+      },
+      "Europe": {
+        "Western_Europe": {
+          "Countries": [
+            "United Kingdom",
+            "France",
+            "Germany",
+            "Italy",
+            "Spain",
+            "Portugal",
+            "Belgium",
+            "Netherlands",
+            "Austria",
+            "Switzerland"
+          ]
+        },
+        "Eastern_Europe": {
+          "Countries": [
+            "Poland",
+            "Hungary",
+            "Czech Republic",
+            "Slovakia",
+            "Romania",
+            "Bulgaria",
+            "Serbia",
+            "Ukraine",
+            "Russia",
+            "Belarus"
+          ]
+        },
+        "Northern_Europe": {
+          "Countries": [
+            "Norway",
+            "Sweden",
+            "Denmark",
+            "Finland",
+            "Iceland",
+            "Estonia",
+            "Latvia",
+            "Lithuania"
+          ]
+        },
+        "Southern_Europe": {
+          "Countries": [
+            "Greece",
+            "Turkey",
+            "Cyprus",
+            "Croatia",
+            "Bosnia and Herzegovina",
+            "Slovenia",
+            "Montenegro",
+            "North Macedonia",
+            "Albania"
+          ]
+        }
+      },
+      "Middle_East": {
+        "Countries": [
+          "Israel",
+          "Iran",
+          "Iraq",
+          "Saudi Arabia",
+          "United Arab Emirates",
+          "Qatar",
+          "Kuwait",
+          "Oman",
+          "Bahrain",
+          "Jordan",
+          "Lebanon",
+          "Syria",
+          "Yemen"
+        ]
+      },
+      "Africa": {
+        "North_Africa": {
+          "Countries": [
+            "Egypt",
+            "Libya",
+            "Tunisia",
+            "Algeria",
+            "Morocco"
+          ]
+        },
+        "Sub_Saharan_Africa": {
+          "Countries": [
+            "Nigeria",
+            "South Africa",
+            "Kenya",
+            "Ethiopia",
+            "Ghana",
+            "Ivory Coast",
+            "Tanzania",
+            "Angola",
+            "Zambia",
+            "Zimbabwe"
+          ]
+        },
+        "Horn_of_Africa": {
+          "Countries": [
+            "Somalia",
+            "Ethiopia",
+            "Eritrea",
+            "Djibouti"
+          ]
+        }
+      },
+      "Asia": {
+        "East_Asia": {
+          "Countries": [
+            "China",
+            "Japan",
+            "South Korea",
+            "North Korea",
+            "Taiwan",
+            "Mongolia"
+          ]
+        },
+        "South_Asia": {
+          "Countries": [
+            "India",
+            "Pakistan",
+            "Bangladesh",
+            "Sri Lanka",
+            "Nepal",
+            "Bhutan",
+            "Maldives"
+          ]
+        },
+        "Southeast_Asia": {
+          "Countries": [
+            "Indonesia",
+            "Malaysia",
+            "Thailand",
+            "Vietnam",
+            "Philippines",
+            "Singapore",
+            "Myanmar",
+            "Cambodia",
+            "Laos",
+            "Brunei"
+          ]
+        },
+        "Central_Asia": {
+          "Countries": [
+            "Kazakhstan",
+            "Uzbekistan",
+            "Turkmenistan",
+            "Kyrgyzstan",
+            "Tajikistan"
+          ]
+        }
+      },
+      "Oceania": {
+        "Countries": [
+          "Australia",
+          "New Zealand",
+          "Papua New Guinea",
+          "Fiji",
+          "Samoa",
+          "Tonga"
+        ]
+      }
+    }
+  }
+  

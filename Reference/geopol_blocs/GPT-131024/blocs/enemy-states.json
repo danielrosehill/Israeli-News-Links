@@ -1,0 +1,28 @@
+[
+    {
+      "Title": "Sworn Enemies",
+      "Description": "Countries that have consistently and vocally opposed Israel's existence, frequently supporting anti-Israel resolutions and maintaining hostile diplomatic stances. Examples include Iran and Syria.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Iran",
+          "ISO 3166 A-2": "IR"
+        },
+        {
+          "Country Name ISO 3166": "Syria",
+          "ISO 3166 A-2": "SY"
+        },
+        {
+          "Country Name ISO 3166": "Lebanon",
+          "ISO 3166 A-2": "LB"
+        },
+        {
+          "Country Name ISO 3166": "Yemen",
+          "ISO 3166 A-2": "YE"
+        },
+        {
+          "Country Name ISO 3166": "Qatar",
+          "ISO 3166 A-2": "QA"
+        }
+      ]
+    }
+  ]

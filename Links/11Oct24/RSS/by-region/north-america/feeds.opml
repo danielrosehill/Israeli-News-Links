@@ -1,0 +1,24 @@
+<opml version="2.0">
+  <head>
+    <title>North America - Middle East And World News</title>
+  </head>
+  <body>
+    <outline text="Bloomberg" type="rss" xmlUrl="https://www.bloomberg.com/feeds/podcasts/middle-east.xml"/>
+    <outline text="CBC" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-world"/>
+    <outline text="CNN" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_world.rss"/>
+    <outline text="Foreign Policy" type="rss" xmlUrl="https://foreignpolicy.com/feed/"/>
+    <outline text="Fox News" type="rss" xmlUrl="https://moxie.foxnews.com/google-publisher/world.xml"/>
+    <outline text="JTA" type="rss" xmlUrl="https://www.jta.org/category/israel/feed"/>
+    <outline text="MSNBC" type="rss" xmlUrl="https://feeds.nbcnews.com/msnbc/public/news"/>
+    <outline text="National Post" type="rss" xmlUrl="https://nationalpost.com/category/news/world/feed.xml"/>
+    <outline text="New York Times" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"/>
+    <outline text="NPR" type="rss" xmlUrl="https://feeds.npr.org/1004/rss.xml"/>
+    <outline text="Washington Post" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"/>
+    <outline text="Al Monitor" type="rss" xmlUrl="https://www.al-monitor.com/rss"/>
+    <outline text="Montreal Gazette" type="rss" xmlUrl="https://montrealgazette.com/category/news/world/feed.xml"/>
+    <outline text="Foreign Affairs" type="rss" xmlUrl="https://www.foreignaffairs.com/rss.xml"/>
+    <outline text="The Hill" type="rss" xmlUrl="https://thehill.com/rss/syndicator/19110"/>
+    <outline text="Wall Street Journal" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml"/>
+    <outline text="The Intercept" type="rss" xmlUrl="https://theintercept.com/world/feed/"/>
+  </body>
+</opml>

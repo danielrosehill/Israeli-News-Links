@@ -1,0 +1,24 @@
+{
+    "Zimbabwe News Websites": [
+        {
+            "Publication Name": "Chronicle",
+            "Website": "https://www.chronicle.co.zw"
+        },
+        {
+            "Publication Name": "Midlands News",
+            "Website": "https://www.midlandsnews.co.zw"
+        },
+        {
+            "Publication Name": "New Zimbabwe",
+            "Website": "https://www.newzimbabwe.com"
+        },
+        {
+            "Publication Name": "NewsDay",
+            "Website": "https://www.newsday.co.zw"
+        },
+        {
+            "Publication Name": "The Herald",
+            "Website": "https://www.herald.co.zw"
+        }
+    ]
+}

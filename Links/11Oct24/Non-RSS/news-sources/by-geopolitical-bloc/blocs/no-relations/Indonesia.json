@@ -1,0 +1,28 @@
+{
+    "Indonesia News Websites": [
+        {
+            "Publication Name": "Antara News",
+            "Website": "https://en.antaranews.com"
+        },
+        {
+            "Publication Name": "Harian Republika",
+            "Website": "https://www.republika.co.id"
+        },
+        {
+            "Publication Name": "Jakarta Globe",
+            "Website": "https://www.thejakartaglobe.com"
+        },
+        {
+            "Publication Name": "Jakarta Post",
+            "Website": "https://www.thejakartapost.com"
+        },
+        {
+            "Publication Name": "Kompas",
+            "Website": "https://www.kompas.com"
+        },
+        {
+            "Publication Name": "The Jakarta Post",
+            "Website": "https://www.thejakartapost.com"
+        }
+    ]
+}

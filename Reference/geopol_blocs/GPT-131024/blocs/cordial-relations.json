@@ -1,0 +1,40 @@
+[
+    {
+      "Title": "Cordial Relations",
+      "Description": "Countries that maintain friendly diplomatic relations with Israel but are less vocal in their support compared to Active Allies.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Japan",
+          "ISO 3166 A-2": "JP"
+        },
+        {
+          "Country Name ISO 3166": "Mexico",
+          "ISO 3166 A-2": "MX"
+        },
+        {
+          "Country Name ISO 3166": "Greece",
+          "ISO 3166 A-2": "GR"
+        },
+        {
+          "Country Name ISO 3166": "Kenya",
+          "ISO 3166 A-2": "KE"
+        },
+        {
+          "Country Name ISO 3166": "Philippines",
+          "ISO 3166 A-2": "PH"
+        },
+        {
+          "Country Name ISO 3166": "South Korea",
+          "ISO 3166 A-2": "KR"
+        },
+        {
+          "Country Name ISO 3166": "New Zealand",
+          "ISO 3166 A-2": "NZ"
+        },
+        {
+          "Country Name ISO 3166": "Singapore",
+          "ISO 3166 A-2": "SG"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,40 @@
+{
+    "Philippines News Websites": [
+        {
+            "Publication Name": "CNN Philippines",
+            "Website": "https://www.cnnphilippines.com"
+        },
+        {
+            "Publication Name": "GMA News",
+            "Website": "https://www.gmanetwork.com/news"
+        },
+        {
+            "Publication Name": "Interaksyon",
+            "Website": "https://www.interaksyon.philstar.com"
+        },
+        {
+            "Publication Name": "Manila Bulletin",
+            "Website": "https://www.mb.com.ph"
+        },
+        {
+            "Publication Name": "Manila Standard",
+            "Website": "https://www.manilastandard.net"
+        },
+        {
+            "Publication Name": "Philippine Daily Inquirer",
+            "Website": "https://www.inquirer.net"
+        },
+        {
+            "Publication Name": "Philippine Star",
+            "Website": "https://www.philstar.com"
+        },
+        {
+            "Publication Name": "Rappler",
+            "Website": "https://www.rappler.com"
+        },
+        {
+            "Publication Name": "The Manila Times",
+            "Website": "https://www.manilatimes.net"
+        }
+    ]
+}

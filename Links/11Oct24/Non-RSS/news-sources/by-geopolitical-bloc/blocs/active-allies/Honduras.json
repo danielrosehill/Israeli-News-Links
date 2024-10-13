@@ -1,0 +1,16 @@
+{
+    "Honduras News Websites": [
+        {
+            "Publication Name": "El Heraldo",
+            "Website": "https://www.elheraldo.hn"
+        },
+        {
+            "Publication Name": "La Prensa",
+            "Website": "https://www.laprensa.hn"
+        },
+        {
+            "Publication Name": "La Tribuna",
+            "Website": "https://www.latribuna.hn"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "India News Websites": [
+        {
+            "Publication Name": "Bharat Samachar",
+            "Website": "https://bharatsamacharlive.com"
+        },
+        {
+            "Publication Name": "BloombergQuint",
+            "Website": "https://www.bloombergquint.com"
+        },
+        {
+            "Publication Name": "Business Standard",
+            "Website": "https://www.business-standard.com"
+        },
+        {
+            "Publication Name": "Business Today",
+            "Website": "https://www.businesstoday.in"
+        },
+        {
+            "Publication Name": "Cricbuzz",
+            "Website": "https://www.cricbuzz.com"
+        },
+        {
+            "Publication Name": "Deccan Chronicle",
+            "Website": "https://www.deccanchronicle.com"
+        },
+        {
+            "Publication Name": "Deccan Herald",
+            "Website": "https://www.deccanherald.com"
+        },
+        {
+            "Publication Name": "Etemaad Daily",
+            "Website": "https://www.etemaaddaily.com"
+        },
+        {
+            "Publication Name": "Financial Express",
+            "Website": "https://www.financialexpress.com"
+        },
+        {
+            "Publication Name": "Firstpost",
+            "Website": "https://www.firstpost.com"
+        },
+        {
+            "Publication Name": "Hindustan Times",
+            "Website": "https://www.hindustantimes.com"
+        },
+        {
+            "Publication Name": "India Narrative",
+            "Website": "https://www.indianarrative.com"
+        },
+        {
+            "Publication Name": "India Times",
+            "Website": "https://www.indiatimes.com"
+        },
+        {
+            "Publication Name": "India Today",
+            "Website": "https://www.indiatoday.in",
+            "Israel News": "https://www.indiatoday.in/topic/israel"
+        },
+        {
+            "Publication Name": "India TV",
+            "Website": "https://www.indiatvnews.com",
+            "Israel News": "https://www.indiatvnews.com/topic/israel/news"
+        },
+        {
+            "Publication Name": "Indian Express",
+            "Website": "https://www.indianexpress.com",
+            "Israel News": "https://indianexpress.com/about/israel/"
+        },
+        {
+            "Publication Name": "Indian Express",
+            "Website": "https://indianexpress.com"
+        },
+        {
+            "Publication Name": "Janata Weekly",
+            "Website": "https://www.janataweekly.org"
+        },
+        {
+            "Publication Name": "Mail Today",
+            "Website": "https://www.mailtoday.in"
+        },
+        {
+            "Publication Name": "Mint",
+            "Website": "https://www.livemint.com"
+        },
+        {
+            "Publication Name": "Navbharat Times",
+            "Website": "https://navbharattimes.indiatimes.com"
+        },
+        {
+            "Publication Name": "NDTV",
+            "Website": "https://www.ndtv.com",
+            "Israel News": "https://www.ndtv.com/topic/israel"
+        },
+        {
+            "Publication Name": "News 18",
+            "Website": "https://www.news18.com"
+        },
+        {
+            "Publication Name": "Rediff",
+            "Website": "https://www.rediff.com"
+        },
+        {
+            "Publication Name": "The Economic Times",
+            "Website": "https://www.economictimes.indiatimes.com"
+        },
+        {
+            "Publication Name": "The Hindu",
+            "Website": "https://www.thehindu.com",
+            "Israel News": "https://www.thehindu.com/topic/israel-palestine-conflict/"
+        },
+        {
+            "Publication Name": "The New Indian Express",
+            "Website": "https://www.newindianexpress.com"
+        },
+        {
+            "Publication Name": "The Times of India",
+            "Website": "https://timesofindia.indiatimes.com"
+        },
+        {
+            "Publication Name": "The Tribune",
+            "Website": "https://www.tribuneindia.com"
+        },
+        {
+            "Publication Name": "Times of India",
+            "Website": "https://www.timesofindia.indiatimes.com",
+            "Israel News": "https://timesofindia.indiatimes.com/topic/israel"
+        },
+        {
+            "Publication Name": "Zee News",
+            "Website": "https://zeenews.india.com"
+        }
+    ]
+}

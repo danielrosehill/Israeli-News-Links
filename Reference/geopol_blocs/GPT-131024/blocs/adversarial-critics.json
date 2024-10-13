@@ -1,0 +1,48 @@
+[
+    {
+      "Title": "Adversarial Critics",
+      "Description": "Countries that maintain diplomatic relations with Israel but are often openly hostile towards its policies, particularly concerning the Palestinian territories.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "Ireland",
+          "ISO 3166 A-2": "IE"
+        },
+        {
+          "Country Name ISO 3166": "Norway",
+          "ISO 3166 A-2": "NO"
+        },
+        {
+          "Country Name ISO 3166": "South Africa",
+          "ISO 3166 A-2": "ZA"
+        },
+        {
+          "Country Name ISO 3166": "Sweden",
+          "ISO 3166 A-2": "SE"
+        },
+        {
+          "Country Name ISO 3166": "Belgium",
+          "ISO 3166 A-2": "BE"
+        },
+        {
+          "Country Name ISO 3166": "Spain",
+          "ISO 3166 A-2": "ES"
+        },
+        {
+          "Country Name ISO 3166": "Portugal",
+          "ISO 3166 A-2": "PT"
+        },
+        {
+          "Country Name ISO 3166": "Finland",
+          "ISO 3166 A-2": "FI"
+        },
+        {
+          "Country Name ISO 3166": "Denmark",
+          "ISO 3166 A-2": "DK"
+        },
+        {
+          "Country Name ISO 3166": "Scotland",
+          "ISO 3166 A-2": "GB-SCT"
+        }
+      ]
+    }
+  ]

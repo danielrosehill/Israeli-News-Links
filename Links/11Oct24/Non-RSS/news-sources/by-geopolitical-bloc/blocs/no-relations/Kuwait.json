@@ -1,0 +1,20 @@
+{
+    "Kuwait News Websites": [
+        {
+            "Publication Name": "Arab Times",
+            "Website": "https://www.arabtimesonline.com"
+        },
+        {
+            "Publication Name": "Kuwait News Agency (KUNA)",
+            "Website": "https://www.kuna.net.kw"
+        },
+        {
+            "Publication Name": "Kuwait Times",
+            "Website": "https://www.kuwaittimes.net"
+        },
+        {
+            "Publication Name": "Kuwait Times",
+            "Website": "https://www.kuwaittimes.com"
+        }
+    ]
+}

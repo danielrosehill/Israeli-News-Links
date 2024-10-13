@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Sub-Saharan Africa Sources for Israel and World News</title>
+  </head>
+  <body>
+    <outline text="Sub-Saharan Africa Sources on World News (including Israel)">
+      <outline text="AllAfrica - Middle East and Africa" type="rss" xmlUrl="https://allafrica.com/tools/headlines/rdf/middleeast/headlines.rdf" />
+      <outline text="News24 (South Africa) - World" type="rss" xmlUrl="https://feeds.24.com/articles/news24/World/rss" />
+      <outline text="Daily Nation (Kenya) - World" type="rss" xmlUrl="https://nation.africa/kenya/rss/1148-1148-view-asFeed-363zyr/index.xml" />
+      <outline text="The East African - World" type="rss" xmlUrl="https://www.theeastafrican.co.ke/tea/rss/world" />
+      <outline text="Premium Times (Nigeria) - World" type="rss" xmlUrl="https://www.premiumtimesng.com/category/foreign/feed" />
+      <outline text="Mail & Guardian (South Africa)" type="rss" xmlUrl="https://mg.co.za/feed/" />
+    </outline>
+  </body>
+</opml>

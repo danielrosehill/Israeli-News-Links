@@ -1,0 +1,16 @@
+{
+    "Chile News Websites": [
+        {
+            "Publication Name": "El Mercurio",
+            "Website": "https://www.elmercurio.com"
+        },
+        {
+            "Publication Name": "La Nacion",
+            "Website": "https://lanacion.cl"
+        },
+        {
+            "Publication Name": "La Tercera",
+            "Website": "https://www.latercera.com"
+        }
+    ]
+}

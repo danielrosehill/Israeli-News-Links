@@ -1,0 +1,28 @@
+{
+    "Spain News Websites": [
+        {
+            "Publication Name": "El Correo",
+            "Website": "https://www.elcorreo.com"
+        },
+        {
+            "Publication Name": "El Mundo",
+            "Website": "https://www.elmundo.es",
+            "Israel News": "https://www.elmundo.es/internacional/israel.html"
+        },
+         {
+            "Publication Name": "El Pais",
+            "Website": "https://www.elpais.com",
+            "Israel News": "https://elpais.com/noticias/israel/"
+        },
+        {
+            "Publication Name": "La Vanguardia",
+            "Website": "https://www.lavanguardia.com",
+            "Israel News": "https://www.lavanguardia.com/topics/israel"
+        },
+        {
+            "Publication Name": "Periodico",
+            "Website": "https://www.elperiodico.com",
+            "Israel News": "https://www.elperiodico.com/es/lugares/israel-7095"
+        }
+    ]
+}

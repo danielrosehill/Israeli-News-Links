@@ -1,0 +1,32 @@
+{
+    "Saudi Arabia News Websites": [
+        {
+            "Publication Name": "Al Arabiya",
+            "Website": "https://english.alarabiya.net"
+        },
+        {
+            "Publication Name": "Al Sharq",
+            "Website": "https://www.al-sharq.com"
+        },
+        {
+            "Publication Name": "Al-Riyadh",
+            "Website": "https://www.alriyadh.com"
+        },
+        {
+            "Publication Name": "Arab News",
+            "Website": "https://www.arabnews.com"
+        },
+        {
+            "Publication Name": "Asharq Al-Awsat",
+            "Website": "https://english.aawsat.com"
+        },
+        {
+            "Publication Name": "Asharq News",
+            "Website": "https://www.asharq.com"
+        },
+        {
+            "Publication Name": "Saudi Gazette",
+            "Website": "https://www.saudigazette.com.sa"
+        }
+    ]
+}

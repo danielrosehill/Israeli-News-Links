@@ -1,0 +1,32 @@
+{
+    "Belgium News Websites": [
+        {
+            "Publication Name": "De Standaard",
+            "Website": "https://www.standaard.be"
+        },
+        {
+            "Publication Name": "Europolitics",
+            "Website": "https://europolitics.info"
+        },
+        {
+            "Publication Name": "Gazet van Antwerpen",
+            "Website": "https://www.gva.be"
+        },
+        {
+            "Publication Name": "Het Laatste Nieuws",
+            "Website": "https://www.hln.be"
+        },
+        {
+            "Publication Name": "L\u2019Echo",
+            "Website": "https://www.lecho.be"
+        },
+        {
+            "Publication Name": "La Libre Belgique",
+            "Website": "https://www.lalibre.be"
+        },
+        {
+            "Publication Name": "Le Soir",
+            "Website": "https://www.lesoir.be"
+        }
+    ]
+}

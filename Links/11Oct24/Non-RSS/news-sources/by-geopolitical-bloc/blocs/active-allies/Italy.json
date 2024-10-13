@@ -1,0 +1,52 @@
+{
+    "Italy News Websites": [
+        {
+            "Publication Name": "Adnkronos",
+            "Website": "https://www.adnkronos.com"
+        },
+        {
+            "Publication Name": "ANSA",
+            "Website": "https://www.ansa.it"
+        },
+        {
+            "Publication Name": "Asia News",
+            "Website": "https://www.asianews.it"
+        },
+        {
+            "Publication Name": "Corriere della Sera",
+            "Website": "https://www.corriere.it"
+        },
+        {
+            "Publication Name": "Il Fatto Quotidiano",
+            "Website": "https://www.ilfattoquotidiano.it"
+        },
+        {
+            "Publication Name": "Il Giornale d'Italia",
+            "Website": "https://www.ilgiornaleditalia.it"
+        },
+        {
+            "Publication Name": "Il Giorno",
+            "Website": "https://www.ilgiorno.it"
+        },
+        {
+            "Publication Name": "Il Manifesto",
+            "Website": "https://ilmanifesto.it"
+        },
+        {
+            "Publication Name": "Il Mattino",
+            "Website": "https://www.ilmattino.it"
+        },
+        {
+            "Publication Name": "Il Sole 24 Ore",
+            "Website": "https://www.ilsole24ore.com"
+        },
+        {
+            "Publication Name": "Inter Press Service",
+            "Website": "https://www.ipsnews.net"
+        },
+        {
+            "Publication Name": "La Repubblica",
+            "Website": "https://www.repubblica.it"
+        }
+    ]
+}

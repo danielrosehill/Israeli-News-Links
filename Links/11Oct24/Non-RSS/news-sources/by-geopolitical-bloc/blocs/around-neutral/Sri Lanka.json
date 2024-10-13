@@ -1,0 +1,24 @@
+{
+    "Sri Lanka News Websites": [
+        {
+            "Publication Name": "Ceylon Today",
+            "Website": "https://www.ceylontoday.lk"
+        },
+        {
+            "Publication Name": "Colombo Page",
+            "Website": "https://www.colombopage.com"
+        },
+        {
+            "Publication Name": "Daily FT",
+            "Website": "https://www.ft.lk"
+        },
+        {
+            "Publication Name": "Daily Mirror",
+            "Website": "https://www.dailymirror.lk"
+        },
+        {
+            "Publication Name": "Daily News",
+            "Website": "https://www.dailynews.lk"
+        }
+    ]
+}

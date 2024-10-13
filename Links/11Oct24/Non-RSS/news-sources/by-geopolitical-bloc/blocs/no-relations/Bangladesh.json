@@ -1,0 +1,28 @@
+{
+    "Bangladesh News Websites": [
+        {
+            "Publication Name": "Bangladesh News 24",
+            "Website": "https://bdnews24.com"
+        },
+        {
+            "Publication Name": "Bangladesh Observer",
+            "Website": "https://www.observerbd.com"
+        },
+        {
+            "Publication Name": "BDNews24",
+            "Website": "https://bdnews24.com"
+        },
+        {
+            "Publication Name": "Daily Observer",
+            "Website": "https://www.observerbd.com"
+        },
+        {
+            "Publication Name": "Daily Star",
+            "Website": "https://www.thedailystar.net"
+        },
+        {
+            "Publication Name": "Financial Express",
+            "Website": "https://thefinancialexpress.com.bd"
+        }
+    ]
+}

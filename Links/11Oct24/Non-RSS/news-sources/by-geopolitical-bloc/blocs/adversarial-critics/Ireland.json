@@ -1,0 +1,54 @@
+{
+    "Ireland News Websites": [
+        {
+            "Publication Name": "Evening Echo",
+            "Website": "https://www.echolive.ie"
+        },
+        {
+            "Publication Name": "Breaking News",
+            "Website": "https://www.breakingnews.ie",
+            "Israel News": "https://www.breakingnews.ie/tag/israel/"
+        },
+        {
+            "Publication Name": "TheJournal.ie",
+            "Website": "https://www.thejournal.ie",
+            "Israel News": "https://www.thejournal.ie/israel/news/"
+
+        },
+        {
+            "Publication Name": "Irish Examiner",
+            "Website": "https://www.irishexaminer.com",
+            "Israel News": "https://www.irishexaminer.com/maintopics/israel_topic-32555.html"
+        },
+        {
+            "Publication Name": "The Irish Sun",
+            "Website": "https://www.thesun.ie",
+            "Israel News": "https://www.thesun.ie/where/israel/"
+        },
+        {
+            "Publication Name": "The Irish Mirror",
+            "Website": "https://www.irishmirror.ie",
+            "Israel News": "https://www.irishmirror.ie/all-about/israel"
+        },
+        {
+            "Publication Name": "The Ditch",
+            "Website": "https://www.ontheditch.com"
+        },
+        {
+            "Publication Name": "Irish Independent",
+            "Website": "https://www.independent.ie",
+            "Israel News": "https://www.independent.ie/tag/israel"
+        },
+        {
+            "Publication Name": "Irish Times",
+            "Website": "https://www.irishtimes.com",
+            "Israel News": "https://www.irishtimes.com/tags/israel/"
+        },
+        {
+            "Publication Name": "RTE",
+            "Website": "https://www.rte.ie"
+          
+        }
+        
+    ]
+}

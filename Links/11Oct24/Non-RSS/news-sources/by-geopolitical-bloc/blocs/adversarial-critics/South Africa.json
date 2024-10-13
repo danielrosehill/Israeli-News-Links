@@ -1,0 +1,94 @@
+{
+    "South Africa News Websites": [
+        {
+            "Publication Name": "Beeld",
+            "Website": "https://www.netwerk24.com/beeld"
+        },
+        {
+            "Publication Name": "BizNews",
+            "Website": "https://www.biznews.com"
+        },
+        {
+            "Publication Name": "Business Day",
+            "Website": "https://www.businessday.co.za"
+        },
+        {
+            "Publication Name": "Business Day",
+            "Website": "https://www.businesslive.co.za"
+        },
+        {
+            "Publication Name": "BusinessTech",
+            "Website": "https://businesstech.co.za"
+        },
+        {
+            "Publication Name": "Cape Argus",
+            "Website": "https://www.iol.co.za/capeargus"
+        },
+        {
+            "Publication Name": "Cape Times",
+            "Website": "https://www.iol.co.za/capetimes"
+        },
+        {
+            "Publication Name": "City Press",
+            "Website": "https://www.citypress.co.za"
+        },
+        {
+            "Publication Name": "Daily Dispatch",
+            "Website": "https://www.dispatchlive.co.za"
+        },
+        {
+            "Publication Name": "Daily Maverick",
+            "Website": "https://www.dailymaverick.co.za"
+        },
+        {
+            "Publication Name": "Daily Sun",
+            "Website": "https://www.dailysun.co.za"
+        },
+        {
+            "Publication Name": "EWN (Eyewitness News)",
+            "Website": "https://ewn.co.za"
+        },
+        {
+            "Publication Name": "Herald Live",
+            "Website": "https://www.heraldlive.co.za"
+        },
+        {
+            "Publication Name": "IOL News",
+            "Website": "https://www.iol.co.za",
+            "Israel News": "https://www.iol.co.za/tags/israel"
+        },
+        {
+            "Publication Name": "Mail & Guardian",
+            "Website": "https://www.mg.co.za"
+        },
+        {
+            "Publication Name": "Mail & Guardian",
+            "Website": "https://mg.co.za"
+        },
+        {
+            "Publication Name": "New Frame",
+            "Website": "https://www.newframe.com"
+        },
+        {
+            "Publication Name": "News 24",
+            "Website": "https://www.news24.com",
+            "Israel News": "https://www.news24.com/tags/places/israel"
+        },
+        {
+            "Publication Name": "SABC News",
+            "Website": "https://www.sabcnews.com"
+        },
+        {
+            "Publication Name": "Sowetan",
+            "Website": "https://www.sowetanlive.co.za"
+        },
+        {
+            "Publication Name": "The Citizen",
+            "Website": "https://www.citizen.co.za"
+        },
+        {
+            "Publication Name": "TimesLIVE",
+            "Website": "https://www.timeslive.co.za"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+[
+    {
+      "Title": "Indifferent or Neutral",
+      "Description": "Countries that remain largely neutral towards Israel and do not regularly comment on Israel-related international matters.",
+      "Countries": [
+        {
+          "Country Name ISO 3166": "China",
+          "ISO 3166 A-2": "CN"
+        },
+        {
+          "Country Name ISO 3166": "Brazil",
+          "ISO 3166 A-2": "BR"
+        },
+        {
+          "Country Name ISO 3166": "Vietnam",
+          "ISO 3166 A-2": "VN"
+        },
+        {
+          "Country Name ISO 3166": "Argentina",
+          "ISO 3166 A-2": "AR"
+        },
+        {
+          "Country Name ISO 3166": "Thailand",
+          "ISO 3166 A-2": "TH"
+        },
+        {
+          "Country Name ISO 3166": "Colombia",
+          "ISO 3166 A-2": "CO"
+        },
+        {
+          "Country Name ISO 3166": "Sri Lanka",
+          "ISO 3166 A-2": "LK"
+        },
+        {
+          "Country Name ISO 3166": "Nepal",
+          "ISO 3166 A-2": "NP"
+        },
+        {
+          "Country Name ISO 3166": "Cambodia",
+          "ISO 3166 A-2": "KH"
+        }
+      ]
+    }
+  ]
